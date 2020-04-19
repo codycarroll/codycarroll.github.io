@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alois Kneip | </title>
+    <link>/authors/alois-kneip/</link>
+      <atom:link href="/authors/alois-kneip/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alois Kneip</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alois Kneip</title>
+      <link>/authors/alois-kneip/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves (Under Review)</title>
+      <link>/publication/xc-shift/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xc-shift/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
