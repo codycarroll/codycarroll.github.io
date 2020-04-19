@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raymond B. Huey | </title>
+    <link>/authors/raymond-b.-huey/</link>
+      <atom:link href="/authors/raymond-b.-huey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raymond B. Huey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Raymond B. Huey</title>
+      <link>/authors/raymond-b.-huey/</link>
+    </image>
+    
+    <item>
+      <title>Mountaineers in an Extreme Environment, An update on effects of age and sex on rates of success and death on Mount Everest (Preprint)</title>
+      <link>/publication/everest/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/everest/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
