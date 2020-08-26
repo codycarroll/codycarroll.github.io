@@ -5,12 +5,22 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title></title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves</title>
+      <link>/publication/xc-shift/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/xc-shift/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Time Dynamics of COVID-19</title>
@@ -27,16 +37,6 @@
       <link>/publication/capra/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/capra/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cross-Component Registration for Multivariate Functional Data, with Application to Growth Curves</title>
-      <link>/publication/xc-shift/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/xc-shift/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

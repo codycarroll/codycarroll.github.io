@@ -49,26 +49,56 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alvaro-gajardo/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>/authors/alois-kneip/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/xc-shift/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/hans-georg-muller/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alvaro-gajardo/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,27 +118,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/satarupa-bhattacharjee/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,17 +138,7 @@
   </url>
   
   <url>
-    <loc>/authors/alois-kneip/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/capra/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/xc-shift/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
