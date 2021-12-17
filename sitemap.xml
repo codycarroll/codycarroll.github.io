@@ -49,21 +49,101 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alois-kneip/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hans-georg-muller/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/xc-warp/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alvaro-gajardo/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/han-chen/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/covid_delay/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paromita-dubey/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/satarupa-bhattacharjee/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yaqing-chen/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yidong-zhou/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/orbit/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/brent-m.-covele/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-l.-moore/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alois-kneip/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,67 +153,12 @@
   </url>
   
   <url>
-    <loc>/authors/hans-georg-muller/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/xc-warp/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alvaro-gajardo/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/han-chen/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/jane-ling-wang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jianing-fan/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/covid_delay/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paromita-dubey/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/satarupa-bhattacharjee/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,57 +173,7 @@
   </url>
   
   <url>
-    <loc>/authors/yaqing-chen/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yidong-zhou/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/orbit/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/brent-m.-covele/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/capra/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kevin-l.-moore/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/lauren-l.-howard/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matt-j.-marinkovich/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/meredith-m.-clancy/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/everest/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rachel-e.-burns/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,11 +184,6 @@
   
   <url>
     <loc>/authors/richard-salisbury/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/taylor-n.-bliss/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
