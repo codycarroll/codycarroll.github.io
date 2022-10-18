@@ -1,0 +1,19 @@
+
+This paper considers a generalization of classical canonical correlation analysis from random vectors to random matrices and multivariate random processes. The authors summarize the CCA literature, reproducing kernel Hilbert spaces, and multiple kernel CCA before introducing multivariate functional data and multiple functional CCA. The proposed estimators are presented as the solution to a suitable constrained maximimization problem. A data illustration of the method applied as both repeated measures data and functional data is given. 
+
+Although I found the paper interesting and the approach reasonable, my primary concerns are as below:
+
+1. Despite the lengthy exposition of existing methods in Sections 1 and 2, it's not easy to distinguish the authors' main methodological contribution. For example, the authors mention Gorecki et al's work on CCA for Multidimensional Functional Data (2017, 2018), however it is not clear how exactly the authors either build on or deviate from this work. A similar statement can be made regarding the kernel methods of Krzysko and Smaga (2019). What is the motivation for the method proposed here, and why is the previous work discussed not sufficient? 
+
+2. The paper lacks theoretical or simulation-based evidence that the proposed estimators are consistent, either asymptotically or in finite samples. A simulation section may also give the authors an opportunity to compare their approach to existing methods--  if the authors' method performs better, for example, then this could help with motivation, which is lacking in the paper's current form. 
+
+3. While the application of the proposed approach is interesting, it is treated superficially. Very few details are given in terms of validating the provided results. Also the raw data are not presented. Perhaps this application could be made more interesting by leveraging the results from the CCA into a downstream analysis. This would give the opportunity for the authors' to answer the lingering question of "So what?"
+
+4. The regularized estimates depend on the constant epsilon, however there is no discussion as to how to select its value, or the ramifications of choosing a value that is too high. The data application also ignores the choice of this regularization coefficient. This is an important consideration of the method and should not be glossed over. 
+
+Minor comments:
+
+1. The section on Multivariate Functional Data seems very short-- could this not be joined with another section, perhaps section 5? 
+
+2. The concluding remarks are rather limited. 
+
