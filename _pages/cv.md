@@ -44,7 +44,7 @@ __2015 - 2017__<br/>
 M.S. in Statistics<br/>
 University of California, Davis
 
-__2011 - 2015__<br/>
+__2011 - 2014__<br/>
 B.S. in Mathematics<br/>
 University of Texas at Austin
 
