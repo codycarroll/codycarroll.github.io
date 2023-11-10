@@ -65,25 +65,25 @@ ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan
 
 __Mentoring__<br/>
 <u>University of San Francisco</u> <br/>
-<em>Advising Master’s Practicums and Research</em><br/>
-<em>Data Science Practicum, Data Institute, USF </em><br/>
+<em>Practicum and Research Mentorship</em><br/>
 
-<u>Current Students:</u><br/>
+
+<u>Current Students:</u>
 <ul>
 <li>  Devendra Govil and Rushil Manglik, USF </li>
-<li>  Seneth Waterman and Ryan Bernstein, The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Rithvik Donnipadu and Max Sivolella, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Seneth Waterman and Ryan Bernstein, @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Rithvik Donnipadu and Max Sivolella, @ Stanford Medicine, with Sophia Ying Wang </li>
 <li> 
- Abhi Erra and Jeffrey Chen, UC San Diego, with Uri Manor </li>
+ Abhi Erra and Jeffrey Chen, @ UC San Diego, with Uri Manor </li>
 </ul> <br/>
 
-<u>Past Students:</u><br/>
+<u>Past Students:</u>
 <ul>
-<li>  Devendra Govil and Vichitra Kumar, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li>
-<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Devendra Govil and Vichitra Kumar, @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li> 
- Mohana Medisetty and Yu-Hsin Wang, Salk Institute for Biological Studies, with Uri Manor </li>
-<li>  Xin Ai and Sharon Dodda, CA Dept. of Fisheries and Wildlife,
+ Mohana Medisetty and Yu-Hsin Wang, @ Salk Institute for Biological Studies, with Uri Manor </li>
+<li>  Xin Ai and Sharon Dodda, @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
 </ul> <br/>
 
@@ -91,10 +91,10 @@ with Alex Heeren and Brett Furnas </li>
 <u>University of California, Davis</u> <br/>
 
 <ul>
-  <b>Honors Thesis Mentor:</b>
+  <u>Honors Thesis Mentor:</u>
 <li> Warping methods for wearable device data, by Hainiu Xu</li>
 
-<b>NSF Research Training Group Mentor:</b>
+<u>NSF Research Training Group Mentor:</u>
 <li>  Warping methods for wearable device data, with Hainiu Xu</li>
 <li>  Functional regression for wearable device data, with Phoebe Biying Li</li>
 <li>  Functional clustering for wearable device data, with Weiyi Chen</li>
