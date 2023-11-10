@@ -64,40 +64,41 @@ ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan
 
 
 __Mentoring__<br/>
-<b>University of San Francisco</b> <br/>
+<u>University of San Francisco</u> <br/>
+<em>Advising Master’s Practicums and Research</em><br/>
+<em>Data Science Practicum, Data Institute, USF </em><br/>
 
-<em>Data Science Practicum, Data Institute, USF Advising Master’s Practicums and Research</em><br/>
-
-<em>Current Students:</em><br/>
+<u>Current Students:</u><br/>
 <ul>
-<li>  Devendra Govil and Rushil Manglik, USF </li><br/>
-<li>  Seneth Waterman and Ryan Bernstein, The Nature Conservancy, with Kirk Klausmeyer </li><br/>
-<li>  Rithvik Donnipadu and Max Sivolella, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li><br/>
+<li>  Devendra Govil and Rushil Manglik, USF </li>
+<li>  Seneth Waterman and Ryan Bernstein, The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Rithvik Donnipadu and Max Sivolella, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li>
 <li> 
- Abhi Erra and Jeffrey Chen, UC San Diego, with Uri Manor </li><br/>
+ Abhi Erra and Jeffrey Chen, UC San Diego, with Uri Manor </li>
 </ul> <br/>
 
-<em>Past Students:</em><br/>
+<u>Past Students:</u><br/>
 <ul>
-<li>  Devendra Govil and Vichitra Kumar, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li><br/>
-<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, The Nature Conservancy, with Kirk Klausmeyer </li><br/>
+<li>  Devendra Govil and Vichitra Kumar, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, The Nature Conservancy, with Kirk Klausmeyer </li>
 <li> 
- Mohana Medisetty and Yu-Hsin Wang, Salk Institute for Biological Studies, with Uri Manor </li><br/>
+ Mohana Medisetty and Yu-Hsin Wang, Salk Institute for Biological Studies, with Uri Manor </li>
 <li>  Xin Ai and Sharon Dodda, CA Dept. of Fisheries and Wildlife,
-with Alex Heeren and Brett Furnas </li><br/>
+with Alex Heeren and Brett Furnas </li>
 </ul> <br/>
 
 
-<b>University of California, Davis</b> <br/>
+<u>University of California, Davis</u> <br/>
 
 <ul>
-<li> Honors Thesis:
-Warping methods for wearable device data, by Hainiu Xu</li><br/>
-NSF Research Training Group:
-<li>  Warping methods for wearable device data, with Hainiu Xu</li><br/>
-<li>  Functional regression for wearable device data, with Phoebe Biying Li</li><br/>
-<li>  Functional clustering for wearable device data, with Weiyi Chen</li><br/>
-<li>  Geographic trends for functional housing price data, with Yunbai Zhang</li><br/>
-<li> Functional data analysis of global temperature extrema, with Cynthia Lai</li><br/>
+  <b>Honors Thesis Mentor:</b>
+<li> Warping methods for wearable device data, by Hainiu Xu</li>
+
+<b>NSF Research Training Group Mentor:</b>
+<li>  Warping methods for wearable device data, with Hainiu Xu</li>
+<li>  Functional regression for wearable device data, with Phoebe Biying Li</li>
+<li>  Functional clustering for wearable device data, with Weiyi Chen</li>
+<li>  Geographic trends for functional housing price data, with Yunbai Zhang</li>
+<li> Functional data analysis of global temperature extrema, with Cynthia Lai</li>
 </ul> <br/>
 
