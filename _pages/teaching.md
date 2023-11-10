@@ -18,6 +18,12 @@ __Instructor__
 
 <ul>
 <b>University of San Francisco </b>
+
+<li> Spring 2024: <br/>
+-Statistics with Applications<br/>
+-Intro to Data Science with R
+</li> <br/>
+
 <li> Fall 2023: <br/>
 -Linear Regression<br/>
 -Intro to Data Science with R
@@ -70,20 +76,30 @@ __Mentoring__<br/>
 
 <u>Current Students:</u>
 <ul>
-<li>  Devendra Govil and Rushil Manglik, USF </li>
-<li>  Seneth Waterman and Ryan Bernstein, @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Rithvik Donnipadu and Max Sivolella, @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Devendra Govil, USF </li>
+<li>  Rushil Manglik, USF </li>
+<li>  Ryan Bernstein, @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Rithvik Donnipadu @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Max Sivolella @ Stanford Medicine, with Sophia Ying Wang </li>
 <li> 
- Abhi Erra and Jeffrey Chen, @ UC San Diego, with Uri Manor </li>
+ Abhi Erra @ UC San Diego, with Uri Manor </li>
+ <li> 
+Jeffrey Chen @ UC San Diego, with Uri Manor </li>
 </ul> <br/>
 
 <u>Past Students:</u>
 <ul>
-<li>  Devendra Govil and Vichitra Kumar, @ Stanford Medicine, with Sophia Ying Wang </li>
-<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Wan-Chun Elena Liao, @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li> 
- Mohana Medisetty and Yu-Hsin Wang, @ Salk Institute for Biological Studies, with Uri Manor </li>
-<li>  Xin Ai and Sharon Dodda, @ CA Dept. of Fisheries and Wildlife,
+ Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
+ <li> 
+ Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
+<li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
+with Alex Heeren and Brett Furnas </li>
+<li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
 </ul> <br/>
 
