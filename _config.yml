@@ -14,13 +14,13 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "aqua" #"contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 lang: en-US
-title: "Satarupa Bhattacharjee"
-masthead_title: "Satarupa Bhattacharjee"
-description: "Personal homepage of Satarupa Bhattacharjee"
+title: "Cody Carroll"
+masthead_title: "Cody Carroll"
+description: "Homepage of Cody Carroll"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://satarupa.github.io
+url: https://codycarroll.github.io
 twitter_username:
-github_username: Satarupa3671
+github_username: codycarroll
 linkedin_username:
 
 logo: /assets/images/logo.png
@@ -64,26 +64,26 @@ social:
 
 # Site Author
 author: 
-  name: "Satarupa Bhattacharjee"
+  name: "Cody Carroll"
   avatar: /assets/images/logo.png
-  bio: "Postdoctoral Scholar in Statistics at Penn State University"
-  location: "State College, PA, USA"
+  bio: "Assistant Professor at University of San Francisco"
+  location: "SF, CA, USA"
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Satarupa3671"
+      url: "https://github.com/codycarroll/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "www.linkedin.com/in/satarupa-bhattacharjee-094b34a3"
+      url: "https://www.linkedin.com/in/cody-j-carroll"
     - label: "University page"
       icon: "fas fa-fw fa-link"
-      url: "https://science.psu.edu/stat/people/sfb5992"
+      url: "https://www.usfca.edu/faculty/cody-carroll"
     - label: "Google Scholar"
       icon: "fab fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=A-sLpqsAAAAJ&hl=en&authuser=1"
+      url: "https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en"
     - label: "Orcid ID"
       icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0002-5974-574X"
+      url: "https://orcid.org/0000-0003-3525-8653"
 
 
 # Reading Files
