@@ -31,8 +31,8 @@ Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., <b>Carroll, C.</b>, Zhou,
 B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics (2021)._ <br/> <a href="/assets/pdf/dvh.pdf" target="_blank">(pdf)</a>.
 
 
-+  _Time dynamics of COVID-19 (2020)._ <br/>
-<b>Carroll, C.</b>, Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. _Nature- Scientific Reports, 10(1), 21040_ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
++  _Time dynamics of COVID-19._ <br/>
+<b>Carroll, C.</b>, Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. _Nature- Scientific Reports, 10(1), 21040, (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
 
 + _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
 R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
@@ -40,7 +40,7 @@ R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/
 
 Whitepapers
 ---------------
-+ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b> (2023). An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(link)</a>
++ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(link)</a>
 
 
 
