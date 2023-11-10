@@ -78,7 +78,7 @@ __Mentoring__<br/>
 <ul>
 <li>  Devendra Govil, USF </li>
 <li>  Rushil Manglik, USF </li>
-<li>  Ryan Bernstein, @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Seneth Waterman @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Rithvik Donnipadu @ Stanford Medicine, with Sophia Ying Wang </li>
 <li>  Max Sivolella @ Stanford Medicine, with Sophia Ying Wang </li>
