@@ -92,7 +92,7 @@ Jeffrey Chen @ UC San Diego, with Uri Manor </li>
 <ul>
 <li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
 <li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Wan-Chun Elena Liao, @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li> 
  Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
  <li> 
