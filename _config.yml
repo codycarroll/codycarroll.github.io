@@ -58,14 +58,14 @@ social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links:
-    - "www.linkedin.com/in/satarupa-bhattacharjee-094b34a3"
-    - "https://github.com/Satarupa3671"
+    - "https://www.linkedin.com/in/cody-j-carroll"
+    - "https://github.com/codycarroll/"
   # An array of links to social media profiles
 
 # Site Author
 author: 
   name: "Cody Carroll"
-  avatar: /assets/images/logo.png
+  avatar: /assets/images/avatar.png
   bio: "Assistant Professor at University of San Francisco"
   location: "SF, CA, USA"
   links:
