@@ -18,13 +18,20 @@ View my full <a href="/assets/pdf/cv.pdf" target="_blank">CV</a>.
 Employment
 ---------------
 
-__2022 - today__<br/>
+__2022 - __<br/>
 Assistant Professor<br/>
+University of San Francisco<br/>
 Department of Mathematics and Statistics & Master's in Data Science Program (jointly)
 
-University of San Francisco
 
+__2022__<br/>
+Lecturer<br/>
+University of California, Davis<br/>
+Department of Statistics 
 
+__2021 - 2022__<br/>
+Data Scientist<br/>
+Wells Fargo
 
 Education
 ---------------
@@ -37,9 +44,8 @@ __2015 - 2017__<br/>
 M.S. in Statistics<br/>
 University of California, Davis
 
-
-__2012 - 2015__<br/>
-B.Sc. in Mathematics<br/>
+__2011 - 2015__<br/>
+B.S. in Mathematics<br/>
 University of Texas at Austin
 
 
