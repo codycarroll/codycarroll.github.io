@@ -11,14 +11,14 @@ classes: wide
 author_profile: true  
 ---
 
-View my full <a href="/assets/pdf/cv.pdf" target="_blank">CV</a>.
+My full CV can be found <a href="/assets/pdf/cv.pdf" target="_blank">here</a>.
 ---------------
 
 
 Employment
 ---------------
 
-__2022 - __<br/>
+__2022 - present__<br/>
 Assistant Professor<br/>
 University of San Francisco<br/>
 Department of Mathematics and Statistics & Master's in Data Science Program (jointly)
