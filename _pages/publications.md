@@ -16,26 +16,26 @@ Publications
 ---------------
 
 + _Latent Deformation Models for Multivariate Functional Data and Time Warping Separability._<br/>
-<b>C. Carroll</b> and H.-G. Müller.  _Biometrics  (2023)._ 
+<b>C. Carroll</b> and H.-G. Müller.  _Biometrics  (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
 
 + _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._<br/>
-T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine (2022)._
+T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
 
 + _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ <br/>
 Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., <b>Carroll, C.</b>, Zhou, Y.,  and Müller, H. G.  _Journal of Mathematical Analysis and Applications, 514(2), 125677, (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
 
 +  _Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves._<br/>
-<b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics (2021)._ <br/>
+<b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics (2021)._ <br/> <a href="/assets/pdf/xcr.pdf" target="_blank">(pdf)</a>.
 
 +  _A Practical Method to Quantify Knowledge-Based Dose Volume Histogram Prediction Accuracy and Uncertainty with Reference Cohorts._ <br/>
-B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics (2021)._ <br/>
+B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics (2021)._ <br/> <a href="/assets/pdf/dvh.pdf" target="_blank">(pdf)</a>.
 
 
 +  _Time dynamics of COVID-19 (2020)._ <br/>
 <b>Carroll, C.</b>, Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. _Nature- Scientific Reports, 10(1), 21040_ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
 
 + _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
-R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/>
+R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
 Whitepapers
