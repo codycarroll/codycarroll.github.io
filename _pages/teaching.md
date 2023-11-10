@@ -17,24 +17,24 @@ Teaching
 __Instructor__
 
 <ul>
-University of San Francisco 
+<b>University of San Francisco </b>
 <li> Fall 2023: <br/>
-Linear Regression<br/>
-Intro to Data Science with R
+-Linear Regression<br/>
+-Intro to Data Science with R
 </li> <br/>
 
 
 <li> Spring 2023: <br/>
-Advanced Machine Learning<br/>
-Linear Algebra for Data Science
+-Advanced Machine Learning<br/>
+-Linear Algebra for Data Science
 </li> <br/>
 
 <li> Fall 2023:<br/>
-Machine Learning Laboratory<br/>
-Communications for Analytics
+-Machine Learning Laboratory<br/>
+-Communications for Analytics
 </li> <br/>
 
-University of California, Davis
+<b>University of California, Davis</b>
 
 <li> Spring 2022: <br/>
 Applied Statistics for Business and Economics
@@ -52,7 +52,7 @@ Applied Statistics for Biological Sciences
 Applied Statistics for Business and Economics
 </li> <br/>
 
-International Experience
+<b>International Experience</b>
 
 <li> 2014-2015: <br/>
 ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan
@@ -92,8 +92,7 @@ University of California, Davis <br/>
 
 <ul>
 <li> Honors Thesis:
-Warping methods for wearable device data, by Hainiu Xu<br/>
-Advised by Dr. Hans-Georg Müller </li><br/>
+Warping methods for wearable device data, by Hainiu Xu</li><br/>
 NSF Research Training Group:
 <li>  Warping methods for wearable device data, with Hainiu Xu</li><br/>
 <li>  Functional regression for wearable device data, with Phoebe Biying Li</li><br/>
