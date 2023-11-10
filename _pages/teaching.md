@@ -64,11 +64,11 @@ ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan
 
 
 __Mentoring__<br/>
-University of San Francisco  <br/>
+<b>University of San Francisco</b> <br/>
 
-Data Science Practicum, Data Institute, USF Advising Master’s Practicums and Research<br/>
+<em>Data Science Practicum, Data Institute, USF Advising Master’s Practicums and Research</em><br/>
 
-Current Students:<br/>
+<em>Current Students:</em><br/>
 <ul>
 <li>  Devendra Govil and Rushil Manglik, USF </li><br/>
 <li>  Seneth Waterman and Ryan Bernstein, The Nature Conservancy, with Kirk Klausmeyer </li><br/>
@@ -77,7 +77,7 @@ Current Students:<br/>
  Abhi Erra and Jeffrey Chen, UC San Diego, with Uri Manor </li><br/>
 </ul> <br/>
 
-Past Students:<br/>
+<em>Past Students:</em><br/>
 <ul>
 <li>  Devendra Govil and Vichitra Kumar, Dept. of Ophthalmology, Stanford Medicine, with Sophia Ying Wang </li><br/>
 <li>  Xinyi Jessica Wang and Wan-Chun Elena Liao, The Nature Conservancy, with Kirk Klausmeyer </li><br/>
@@ -88,7 +88,7 @@ with Alex Heeren and Brett Furnas </li><br/>
 </ul> <br/>
 
 
-University of California, Davis <br/>
+<b>University of California, Davis</b> <br/>
 
 <ul>
 <li> Honors Thesis:

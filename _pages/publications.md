@@ -15,26 +15,32 @@ author_profile: true
 Publications
 ---------------
 
-+ C. Carroll and H.-G. Müller (2023). Latent Deformation Models for Multivariate Functional Data and Time Warping Separability. _Biometrics._ 
++ _Latent Deformation Models for Multivariate Functional Data and Time Warping Separability._
+<b>C. Carroll</b> and H.-G. Müller.  _Biometrics  (2023)._ 
 
-+ T. N. Bliss, M. J. Marinkovich, R. E. Burns, C. Carroll, M. M. Clancy, L. L. Howard. (2022)
-Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae.  _Journal of Zoo and Wildlife Medicine._
++ _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._
+T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine (2022)._
 
-+ Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., Carroll, C., Zhou, Y.,  and Müller, H. G. (2022). Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States. _Journal of Mathematical Analysis and Applications, 514(2), 125677_ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
++ _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ 
+Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., <b>Carroll, C.</b>, Zhou, Y.,  and Müller, H. G.  _Journal of Mathematical Analysis and Applications, 514(2), 125677, (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
 
-+ C. Carroll, H.-G. Müller, A. Kneip (2021). Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves. _Biometrics._ <br/>
++  Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves.
+<b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics (2021)._ <br/>
 
-+ B. Covele, C. Carroll, K. Moore (2021). A Practical Method to Quantify Knowledge-Based Dose Volume Histogram Prediction Accuracy and Uncertainty with Reference Cohorts.  _Journal of Applied Clinical Medical Physics._ <br/>
-
-
-+ Carroll, C., Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. (2020). Time dynamics of COVID-19. _Nature- Scientific Reports, 10(1), 21040_ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
-
-+ R. B. Huey, C. Carroll, R. Salisbury, J.-L. Wang (2020). Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death. _PLoS One._ <br/>
-
++  _A Practical Method to Quantify Knowledge-Based Dose Volume Histogram Prediction Accuracy and Uncertainty with Reference Cohorts._ 
+B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics (2021)._ <br/>
 
 
++  _Time dynamics of COVID-19 (2020)._ 
+<b>Carroll, C.</b>, Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. _Nature- Scientific Reports, 10(1), 21040_ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
+
++ _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ 
+R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/>
 
 
+Whitepapers
+---------------
++ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b> (2023). An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy._
 
 Software
 ---------------
