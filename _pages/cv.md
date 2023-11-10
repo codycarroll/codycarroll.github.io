@@ -15,7 +15,7 @@ My full CV can be found <a href="/assets/pdf/cv.pdf" target="_blank">here</a>.
 ---------------
 
 
-Employment
+Academic and Industry Positions
 ---------------
 
 __2022 - present__<br/>
