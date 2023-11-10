@@ -91,10 +91,10 @@ with Alex Heeren and Brett Furnas </li>
 <u>University of California, Davis</u> <br/>
 
 <ul>
-  <u>Honors Thesis Mentor:</u>
+  <em>Honors Thesis Mentor:</em>
 <li> Warping methods for wearable device data, by Hainiu Xu</li>
 
-<u>NSF Research Training Group Mentor:</u>
+<em>NSF Research Training Group Mentor:</em>
 <li>  Warping methods for wearable device data, with Hainiu Xu</li>
 <li>  Functional regression for wearable device data, with Phoebe Biying Li</li>
 <li>  Functional clustering for wearable device data, with Weiyi Chen</li>
