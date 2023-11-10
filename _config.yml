@@ -23,9 +23,9 @@ twitter_username:
 github_username: codycarroll
 linkedin_username:
 
-logo: /assets/images/logo.png
+logo: /assets/images/logo.jpg
 search: false #, false (default)
-logo: /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: /assets/images/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 excerpt: "A nice background picture"
 header:
   overlay_image: /assets/images/background.JPG
