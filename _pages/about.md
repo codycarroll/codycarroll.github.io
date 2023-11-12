@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-I'm currently an assistant professor at the University of San Francisco, with joint appointments between the Math and Statistics department and the M.S. in Data Science Program. I'm also a cohost of the podcast [Data Science Beginnings](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements.
+I'm currently an assistant professor at the University of San Francisco, with joint appointments between the Math and Statistics department and the M.S. in Data Science Program. I'm also a cohost of the [USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements.
 
 Broadly, I am interested in the treatment of complex structured data whose geometries thwart traditional, off-the-shelf statistical methods. In particular I am attracted to questions concerning functional and longitudinal data, especially when the functions are multivariate, contaminated by warping, or subject to constraints, as in the case of densities or monotonic curves. 
 
