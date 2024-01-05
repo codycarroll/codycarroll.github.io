@@ -92,7 +92,7 @@ Jeffrey Chen @ UC San Diego, with Uri Manor </li>
 <ul>
 <li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
-+  Medium Article:
++  Medium Article: 
 <a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">(Insights into Human-Bear Interactions in California via Social Media.)</a>
 <li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
