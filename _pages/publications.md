@@ -54,5 +54,5 @@ Software
 _Contributing author and former maintainer_ <a href="/assets/images/fdapace_download.png" target="_blank"></a> <br/>
 
 + BirdSense Bid for Birds Dashboard <br/>
-<a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/"</a>(Interactive Dashboard.)
+<a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
 
