@@ -56,3 +56,8 @@ _Contributing author and former maintainer_ <a href="/assets/images/fdapace_down
 + BirdSense Bid for Birds Dashboard <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
 
+
+Miscellaneous 
+---------------
+
+<a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media.</a>
