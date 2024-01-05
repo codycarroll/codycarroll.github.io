@@ -40,7 +40,9 @@ R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/
 
 Whitepapers
 ---------------
-+ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page)</a>
++ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._ 
+<a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a>  <br/>
+<a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/"</a>(BirdSense Interactive Dashboard.)
 
 
 
