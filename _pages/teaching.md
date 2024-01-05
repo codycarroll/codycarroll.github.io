@@ -90,18 +90,24 @@ Jeffrey Chen @ UC San Diego, with Uri Manor </li>
 
 <u>Past Students:</u>
 <ul>
-<li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
+with Alex Heeren and Brett Furnas </li>
++  <br/>
+<a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">(Insights into Human-Bear Interactions in California via Social Media.)</a>
+<li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
+with Alex Heeren and Brett Furnas </li>
+</ul> <br/>
 <li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
 <li> 
  Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
  <li> 
  Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
-<li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
-with Alex Heeren and Brett Furnas </li>
-<li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
-with Alex Heeren and Brett Furnas </li>
-</ul> <br/>
+
+
+
+
 
 
 <u>University of California, Davis</u> <br/>
