@@ -76,7 +76,6 @@ __Mentoring__<br/>
 <u>Current Students:</u>
 <ul>
 <li>  Devendra Govil, USF </li>
-<li>  Rushil Manglik, USF </li>
 <li>  Seneth Waterman @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Rithvik Donnipadu @ Stanford Medicine, with Sophia Ying Wang </li>
@@ -102,6 +101,7 @@ with Alex Heeren and Brett Furnas </li>
  Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
  <li> 
  Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
+ <li>  Rushil Manglik, USF </li>
 </ul> <br/>
 
 
