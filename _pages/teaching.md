@@ -109,7 +109,6 @@ with Alex Heeren and Brett Furnas </li>
 
 
 <u>University of California, Davis</u> <br/>
-
 <ul>
   <em>Honors Thesis Mentor:</em>
 <li> Warping methods for wearable device data, by Hainiu Xu</li>
