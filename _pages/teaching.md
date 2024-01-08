@@ -21,12 +21,11 @@ __Instructor__
 
 <li> Spring 2024: <br/>
 -Statistics with Applications<br/>
--Intro to Data Science with R
-</li> <br/>
+-<a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a></li> <br/>
 
 <li> Fall 2023: <br/>
 -Linear Regression<br/>
--Intro to Data Science with R
+-<a href="https://github.com/codycarroll/Intro-DS-F23">Intro to Data Science with R</a>
 </li> <br/>
 
 
@@ -35,7 +34,7 @@ __Instructor__
 -Linear Algebra for Data Science
 </li> <br/>
 
-<li> Fall 2023:<br/>
+<li> Fall 2022:<br/>
 -Machine Learning Laboratory<br/>
 -Communications for Analytics
 </li> <br/>
@@ -96,7 +95,6 @@ with Alex Heeren and Brett Furnas </li>
 <a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media.</a>
 <li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
-</ul> <br/>
 <li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
@@ -104,7 +102,7 @@ with Alex Heeren and Brett Furnas </li>
  Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
  <li> 
  Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
-
+</ul> <br/>
 
 
 
