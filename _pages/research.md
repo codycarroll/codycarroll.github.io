@@ -23,4 +23,4 @@ My research generally falls into one of three main categories (or a combination 
 + **Imaging, computer vision, & deep learning**
 
 
-
+A full list of my publications can be found <a href="https://codycarroll.github.io/publications/"> here </a>. 
