@@ -57,7 +57,10 @@ _Contributing author and former maintainer_ <a href="/assets/images/fdapace_down
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
 
 
-Miscellaneous 
+Medium articles written with students
 ---------------
 
 <a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media.</a>
+
+<a href="https://medium.com/@xinnnnn.ai/pos-tagging-and-dbscan-clustering-1543f681588c" target="_blank">Decoding Black Bear Encounters on Social Media: Advanced NLP in Action with POS-tagging and DBSCAN Clustering.</a>
+
