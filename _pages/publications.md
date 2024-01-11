@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 layout: single
-title: "Publications"
+title: "Publications & Creative Works"
 header:
   overlay_image: /assets/images/publications.jpg
   overlay_filter: 0.5
@@ -55,6 +55,11 @@ _Contributing author and former maintainer_ <a href="/assets/images/fdapace_down
 
 + BirdSense Bid for Birds Dashboard <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
+
+
+Media
+---------------
+[The USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements
 
 
 Medium articles written with students
