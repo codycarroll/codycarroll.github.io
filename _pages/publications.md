@@ -62,7 +62,7 @@ Media
 [The USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements
 
 
-Medium articles written with students
+Medium articles with students
 ---------------
 
 <a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media.</a>
