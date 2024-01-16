@@ -22,6 +22,7 @@ __Instructor__
 <li> Spring 2024: <br/>
 -Statistics with Applications<br/>
 -<a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a></li> <br/>
+-Linear Algebra for Data Science
 
 <li> Fall 2023: <br/>
 -Linear Regression<br/>
@@ -30,7 +31,7 @@ __Instructor__
 
 
 <li> Spring 2023: <br/>
--Advanced Machine Learning<br/>
+-Advanced Machine Learning<br/> 
 -Linear Algebra for Data Science
 </li> <br/>
 
