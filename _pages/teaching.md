@@ -20,9 +20,9 @@ __Instructor__
 <b>University of San Francisco </b>
 
 <li> Spring 2024: <br/>
--Statistics with Applications<br/>
--<a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a></li> <br/>
--Linear Algebra for Data Science
+-<a href="https://github.com/codycarroll/m371-s24">Statistics with Applications</a><br/>
+-<a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a><br/>
+-Linear Algebra for Data Science</li> <br/>
 
 <li> Fall 2023: <br/>
 -Linear Regression<br/>
@@ -91,8 +91,6 @@ Jeffrey Chen @ UC San Diego, with Uri Manor </li>
 <ul>
 <li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
-+  Medium Article: 
-<a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media.</a>
 <li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
 <li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
