@@ -81,9 +81,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en"
-    - label: "Orcid ID"
-      icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/0000-0003-3525-8653"
+    - label: "Soundcloud"
+      icon: "fas fa-fw fa-link"
+      url: "https://soundcloud.com/kinabalu_dj"
 
 
 # Reading Files
