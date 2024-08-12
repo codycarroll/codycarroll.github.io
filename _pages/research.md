@@ -20,7 +20,7 @@ My research generally falls into one of three main categories (or a combination 
 
 + **Time-dependent data & functional/longitudinal statistics**
 + **Ecological data & conservation technology** 
-+ **Imaging & computer vision**
++ **Statistical modeling of healthcare data**
 
 
 A full list of my publications can be found <a href="https://codycarroll.github.io/publications/"> here </a>. 
