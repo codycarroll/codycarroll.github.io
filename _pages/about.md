@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "Yo!"
+title: "Hi!"
 header:
   overlay_image: /assets/images/about.jpg
   overlay_filter: 0.5
