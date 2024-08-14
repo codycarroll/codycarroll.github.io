@@ -76,7 +76,12 @@ __Mentoring__<br/>
 
 <u>Current Students:</u>
 <ul>
-<li>  Devendra Govil, USF </li>
+
+</ul> <br/>
+
+<u>Past Students:</u>
+<ul>
+  2023-2024
 <li>  Seneth Waterman @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Rithvik Donnipadu @ Stanford Medicine, with Sophia Ying Wang </li>
@@ -85,16 +90,14 @@ __Mentoring__<br/>
  Abhi Erra @ UC San Diego, with Uri Manor </li>
  <li> 
 Jeffrey Chen @ UC San Diego, with Uri Manor </li>
-</ul> <br/>
-
-<u>Past Students:</u>
-<ul>
+  2022-2023
 <li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
 <li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
 with Alex Heeren and Brett Furnas </li>
 <li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
 <li>  Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Devendra Govil @ Stanford Medicine, with Sophia Ying Wang </li>
 <li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
 <li> 
  Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
