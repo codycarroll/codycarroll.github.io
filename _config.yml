@@ -81,9 +81,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en"
-    - label: "Soundcloud"
-      icon: "fas fa-fw fa-link"
-      url: "https://soundcloud.com/kinabalu_dj"
+#    - label: "Soundcloud"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://soundcloud.com/kinabalu_dj"
 
 
 # Reading Files
