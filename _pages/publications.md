@@ -62,11 +62,5 @@ Media
 [The USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements
 
 
-Medium articles with students
----------------
 
-<a href="https://medium.com/@xinnnnn.ai/bears-in-bytes-1a09cf1fe914" target="_blank">Insights into Human-Bear Interactions in California via Social Media</a> <br/> 
-<a href="https://github.com/persecond17/Black_Bear_CDFW2023" target="_blank">(Github page)</a> 
-
-<a href="https://medium.com/@xinnnnn.ai/pos-tagging-and-dbscan-clustering-1543f681588c" target="_blank">Decoding Black Bear Encounters on Social Media: Advanced NLP in Action with POS-tagging and DBSCAN Clustering.</a>
 
