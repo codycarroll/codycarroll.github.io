@@ -23,4 +23,4 @@ My research generally falls into one of three main categories (or a combination 
 + **Statistical modeling of healthcare data**
 
 
-A full list of my publications can be found <a href="https://codycarroll.github.io/publications/"> here </a>. 
+A full list of my publications can be found <a href="https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en"> here </a>. 
