@@ -15,6 +15,12 @@ author_profile: true
 Publications
 ---------------
 
++ _An Open-Source Deep Learning-Based Toolbox for Auditory Brainstem Response Analysis (ABRA)._<br/>
+A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports, in press (2026)._ <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599815" target="_blank">(preprint)</a>.
+
++ _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
+J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop, in press (2026)._ <a href="https://arxiv.org/abs/2509.05486" target="_blank">(preprint)</a>.
+
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
 R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a>.
 
@@ -50,17 +56,11 @@ R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/
 Preprints
 ---------------
 
-+ _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra, J. Chen, C. M. Miller, E. Chrysostomou, S. Barret, Y. M. Kassim, <b>C. Carroll</b>, et al. _bioRxiv (2025)._ <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599815" target="_blank">(preprint)</a>.
-
-+ _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
-J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05486 (2025)._ <a href="https://arxiv.org/abs/2509.05486" target="_blank">(preprint)</a>.
-
 + _No Translation Needed: Forecasting Quality from Fertility and Metadata._<br/>
 J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05425 (2025)._ <a href="https://arxiv.org/abs/2509.05425" target="_blank">(preprint)</a>.
 
-+ _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
-R. Bernstein, S. Waterman, K. R. Klausmeyer, N. P. Murphy, M. M. Rodhe, <b>C. Carroll</b>, et al. _Available at SSRN 5934324 (2025)._ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934324" target="_blank">(preprint)</a>.
++ _Improving Conservation Efficiency with Large Language Models._<br/>
+R. Bernstein, S. Waterman, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934324" target="_blank">(preprint)</a>.
 
 
 Whitepapers
