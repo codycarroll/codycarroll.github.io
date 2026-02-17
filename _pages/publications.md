@@ -15,6 +15,15 @@ author_profile: true
 Publications
 ---------------
 
++ _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
+R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._
+
++ _Comparative Embryology and Transcriptomics of Asellus infernus, an Isopod Crustacean From Sulfidic Groundwater._<br/>
+H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._
+
++ _Consistency and Validity of Participatory Science Data: A Comparison of Seasonality Patterns of Northern California and Nevada Birds Across eBird and iNaturalist._<br/>
+<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _Citizen Science: Theory and Practice 10(1) (2025)._
+
 + _Latent Deformation Models for Multivariate Functional Data and Time Warping Separability._<br/>
 <b>C. Carroll</b> and H.-G. Müller.  _Biometrics  (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
 
@@ -38,6 +47,22 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
+Preprints
+---------------
+
++ _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
+A. Erra, J. Chen, C. M. Miller, E. Chrysostomou, S. Barret, Y. M. Kassim, <b>C. Carroll</b>, et al. _bioRxiv (2025)._
+
++ _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
+J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05486 (2025)._
+
++ _No Translation Needed: Forecasting Quality from Fertility and Metadata._<br/>
+J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05425 (2025)._
+
++ _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
+R. Bernstein, S. Waterman, K. R. Klausmeyer, N. P. Murphy, M. M. Rodhe, <b>C. Carroll</b>, et al. _Available at SSRN 5934324 (2025)._
+
+
 Whitepapers
 ---------------
 + X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._ 
@@ -52,6 +77,12 @@ Software
 
 + fdapace: Functional Data Analysis and Empirical Dynamics- 2019 -- present  [(R package)](https://cran.r-project.org/web/packages/fdapace/index.html)<br/>
 _Contributing author and former maintainer_ <a href="/assets/images/fdapace_download.png" target="_blank"></a> <br/>
+
++ Auditory Brainstem Response Analyzer (ABRA) <br/>
+A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>, U. Manor. _Zenodo (2025)._ <br/>
+
++ NorCal Bird Dashboard <br/>
+<b>C. Carroll</b>, S. Waterman, A. Zhang. _(2024)._ <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
 
 + BirdSense Bid for Birds Dashboard <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
