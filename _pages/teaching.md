@@ -20,18 +20,18 @@ __Instructor__
 <b>University of San Francisco </b>
 
 <li> Spring 2026: <br/>
--Advanced Machine Learning<br/>
+-<a href="https://github.com/codycarroll/advml_s26">Advanced Machine Learning</a><br/>
 -Linear Algebra for Data Science</li> <br/>
 
 <li> Fall 2025: <br/>
--Linear Regression Analysis</li> <br/>
+-<a href="https://github.com/codycarroll/regression_f25">Linear Regression Analysis</a></li> <br/>
 
 <li> Spring 2025: <br/>
--Advanced Machine Learning<br/>
+-<a href="https://github.com/codycarroll/advml_s25">Advanced Machine Learning</a><br/>
 -Linear Algebra for Data Science</li> <br/>
 
 <li> Fall 2024: <br/>
--Linear Regression Analysis</li> <br/>
+-<a href="https://github.com/codycarroll/regression_f24">Linear Regression Analysis</a></li> <br/>
 
 <li> Spring 2024: <br/>
 -<a href="https://github.com/codycarroll/m371-s24">Statistics with Applications</a><br/>
