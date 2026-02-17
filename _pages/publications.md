@@ -51,16 +51,16 @@ Preprints
 ---------------
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra, J. Chen, C. M. Miller, E. Chrysostomou, S. Barret, Y. M. Kassim, <b>C. Carroll</b>, et al. _bioRxiv (2025)._
+A. Erra, J. Chen, C. M. Miller, E. Chrysostomou, S. Barret, Y. M. Kassim, <b>C. Carroll</b>, et al. _bioRxiv (2025)._ <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599815" target="_blank">(preprint)</a>.
 
 + _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
-J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05486 (2025)._
+J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05486 (2025)._ <a href="https://arxiv.org/abs/2509.05486" target="_blank">(preprint)</a>.
 
 + _No Translation Needed: Forecasting Quality from Fertility and Metadata._<br/>
-J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05425 (2025)._
+J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _arXiv preprint arXiv:2509.05425 (2025)._ <a href="https://arxiv.org/abs/2509.05425" target="_blank">(preprint)</a>.
 
 + _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
-R. Bernstein, S. Waterman, K. R. Klausmeyer, N. P. Murphy, M. M. Rodhe, <b>C. Carroll</b>, et al. _Available at SSRN 5934324 (2025)._
+R. Bernstein, S. Waterman, K. R. Klausmeyer, N. P. Murphy, M. M. Rodhe, <b>C. Carroll</b>, et al. _Available at SSRN 5934324 (2025)._ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934324" target="_blank">(preprint)</a>.
 
 
 Whitepapers
