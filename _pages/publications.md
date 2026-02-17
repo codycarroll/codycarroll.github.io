@@ -90,7 +90,7 @@ A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>,
 
 Media
 ---------------
-[The USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv) with Robert Clements
+[The USF Data Science Podcast](https://open.spotify.com/show/5SY1TPw3FubdSxCqrxUKZv), co-host with Robert Clements (2022 - present)
 
 
 
