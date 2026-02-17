@@ -16,13 +16,13 @@ Publications
 ---------------
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
-R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._
+R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a>.
 
 + _Comparative Embryology and Transcriptomics of Asellus infernus, an Isopod Crustacean From Sulfidic Groundwater._<br/>
-H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._
+H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._ <a href="/assets/pdf/isopods.pdf" target="_blank">(pdf)</a>.
 
 + _Consistency and Validity of Participatory Science Data: A Comparison of Seasonality Patterns of Northern California and Nevada Birds Across eBird and iNaturalist._<br/>
-<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _Citizen Science: Theory and Practice 10(1) (2025)._
+<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _Citizen Science: Theory and Practice 10(1) (2025)._ <a href="/assets/pdf/birds_citsci.pdf" target="_blank">(pdf)</a>.
 
 + _Latent Deformation Models for Multivariate Functional Data and Time Warping Separability._<br/>
 <b>C. Carroll</b> and H.-G. Müller.  _Biometrics  (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
