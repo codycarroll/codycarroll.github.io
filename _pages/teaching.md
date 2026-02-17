@@ -19,6 +19,20 @@ __Instructor__
 <ul>
 <b>University of San Francisco </b>
 
+<li> Spring 2026: <br/>
+-Advanced Machine Learning<br/>
+-Linear Algebra for Data Science</li> <br/>
+
+<li> Fall 2025: <br/>
+-Linear Regression Analysis</li> <br/>
+
+<li> Spring 2025: <br/>
+-Advanced Machine Learning<br/>
+-Linear Algebra for Data Science</li> <br/>
+
+<li> Fall 2024: <br/>
+-Linear Regression Analysis</li> <br/>
+
 <li> Spring 2024: <br/>
 -<a href="https://github.com/codycarroll/m371-s24">Statistics with Applications</a><br/>
 -<a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a><br/>
@@ -74,36 +88,24 @@ __Mentoring__<br/>
 <em>Practicum and Research Mentorship</em><br/>
 
 
-<u>Current Students:</u>
-<ul>
-
-</ul> <br/>
-
 <u>Past Students:</u>
 <ul>
+  2024-2025
+<li>  Amit Chaubey and Emma Casal @ Dept. of Ophthalmology, Stanford University, with Sophia Ying Wang </li>
+<li>  Kd Bartholomew and Aman Singh @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Leah Ashebir and Peeyush Patel @ Manor Lab at UC San Diego, with Uri Manor </li>
+<li>  Ada Zhang, Hamza Louzan, Victor Wei, and Nihal Karim @ Gates Foundation, with Jessica Lundin </li>
+<li>  Helen Lin and Kavin Indirajith @ California Office of Environmental Health Hazard Assessment, with Scott Coffin </li>
+<li>  Andrea Quiroz and Jose Fuentes @ UCSF Clinical Informatics, with Hui Lin </li>
   2023-2024
-<li>  Seneth Waterman @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Rithvik Donnipadu @ Stanford Medicine, with Sophia Ying Wang </li>
-<li>  Max Sivolella @ Stanford Medicine, with Sophia Ying Wang </li>
-<li> 
- Abhi Erra @ UC San Diego, with Uri Manor </li>
- <li> 
-Jeffrey Chen @ UC San Diego, with Uri Manor </li>
+<li>  Seneth Waterman and Ryan Bernstein @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Rithvik Donnipadu and Max Sivolella @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Abhi Erra and Jeffrey Chen @ UC San Diego, with Uri Manor </li>
   2022-2023
-<li>  Xin Ai @ CA Dept. of Fisheries and Wildlife,
-with Alex Heeren and Brett Furnas </li>
-<li>  Sharon Dodda @ CA Dept. of Fisheries and Wildlife,
-with Alex Heeren and Brett Furnas </li>
-<li>  Xinyi Jessica Wang @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
-<li>  Devendra Govil @ Stanford Medicine, with Sophia Ying Wang </li>
-<li> Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
-<li> 
- Mohana Medisetty @ Salk Institute for Biological Studies, with Uri Manor </li>
- <li> 
- Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
- <li>  Rushil Manglik, USF </li>
+<li>  Xin Ai and Sharon Dodda @ CA Dept. of Fisheries and Wildlife, with Alex Heeren and Brett Furnas </li>
+<li>  Xinyi Jessica Wang and Wan-Chun Elena Liao @ The Nature Conservancy, with Kirk Klausmeyer </li>
+<li>  Devendra Govil and Vichitra Kumar @ Stanford Medicine, with Sophia Ying Wang </li>
+<li>  Mohana Medisetty and Yu-Hsin Wang @ Salk Institute for Biological Studies, with Uri Manor </li>
 </ul> <br/>
 
 
