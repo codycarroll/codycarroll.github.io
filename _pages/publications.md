@@ -79,7 +79,7 @@ Software
 _Contributing author and former maintainer_ <a href="/assets/images/fdapace_download.png" target="_blank"></a> <br/>
 
 + Auditory Brainstem Response Analyzer (ABRA) <br/>
-A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>, U. Manor. _Zenodo (2025)._ <br/>
+A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>, U. Manor. _Zenodo (2025)._ <a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
 
 + NorCal Bird Dashboard <br/>
 <b>C. Carroll</b>, S. Waterman, A. Zhang. _(2024)._ <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
