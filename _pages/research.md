@@ -20,7 +20,7 @@ My research generally falls into one of the following categories (or a combinati
 
 ### Functional and longitudinal data analysis
 
-Much of my methodological work focuses on functional and longitudinal data, particularly when the data involve multiple components or are subject to time warping. My work with my PhD advisor Hans-Georg Müller developed latent deformation models and cross-component registration methods for multivariate functional data, motivated by the study of human growth curves. These methods address systematic phase variation — like differences in the timing of growth spurts across individuals and body measurements. This line of work has appeared in *Biometrics* and contributed to the <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a>.
+Much of my methodological work focuses on functional and longitudinal data, particularly when the data involve multiple components or are subject to time warping. I developed latent deformation models and cross-component registration methods for multivariate functional data with my PhD advisor Hans-Georg Müller; these projects were motivated by the study of human growth curves. These methods address systematic phase variation — like differences in the timing of growth spurts across individuals and body measurements. This line of work has appeared in *Biometrics* and contributed to the <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a>.
 
 ### Conservation, citizen science, and wildlife
 
