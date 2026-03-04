@@ -23,7 +23,7 @@ github_username: codycarroll
 linkedin_username: cody-j-carroll
 
 logo: /assets/images/corner.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-excerpt: "A nice background picture"
+excerpt: ""
 header:
   overlay_image: /assets/images/background.JPG
   overlay_filter: 0.9
