@@ -30,4 +30,4 @@ I collaborate extensively with conservation scientists, particularly at The Natu
 
 On the biomedical side, I work with ophthalmologists at Stanford Medicine on predicting progressive vision loss in glaucoma patients using electronic health records and statistical and machine learning methods. I also collaborate with auditory researchers at UC San Diego, where our team developed <a href="https://doi.org/10.1038/s41598-026-38045-1" target="_blank">ABRA</a>, an open-source deep learning toolbox for automated auditory brainstem response analysis.
 
-A full list of my publications can be found on my <a href="https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+A full list of my publications can be found on my <a href="/publications/">publications page</a> or <a href="https://scholar.google.com/citations?user=EY7x1lYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
