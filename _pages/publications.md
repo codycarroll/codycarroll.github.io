@@ -16,13 +16,13 @@ Publications
 ---------------
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="https://doi.org/10.1038/s41598-026-38045-1" target="_blank">(journal)</a> <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599815" target="_blank">(preprint)</a>.
+A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="https://doi.org/10.1038/s41598-026-38045-1" target="_blank">(journal)</a> <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599815" target="_blank">(preprint)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
 + _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
-J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop, in press (2026)._ <a href="https://arxiv.org/abs/2509.05486" target="_blank">(preprint)</a>.
+J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop, in press (2026)._ <a href="https://arxiv.org/abs/2509.05486" target="_blank">(preprint)</a> <a href="/assets/pdf/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
-R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="https://doi.org/10.3389/fopht.2025.1632827" target="_blank">(journal)</a> <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a>.
+R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="https://doi.org/10.3389/fopht.2025.1632827" target="_blank">(journal)</a> <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Comparative Embryology and Transcriptomics of Asellus infernus, an Isopod Crustacean From Sulfidic Groundwater._<br/>
 H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._ <a href="https://doi.org/10.1111/ede.70014" target="_blank">(journal)</a> <a href="/assets/pdf/isopods.pdf" target="_blank">(pdf)</a>.
@@ -60,13 +60,13 @@ Preprints
 J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026, under review._ <a href="https://arxiv.org/abs/2509.05425" target="_blank">(preprint)</a>.
 
 + _Improving Conservation Efficiency with Large Language Models._<br/>
-R. Bernstein, S. Waterman, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934324" target="_blank">(preprint)</a>.
+R. Bernstein, S. Waterman, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5934324" target="_blank">(preprint)</a> <a href="/assets/pdf/chatgde.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a>.
 
 
 Whitepapers
 ---------------
 + X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._ 
-<a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a> 
+<a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a> 
 
 
 
