@@ -5,7 +5,7 @@ title: "Teaching"
 header:
   overlay_image: /assets/images/teaching.jpg
   overlay_filter: 0.5
-  image_position: center top
+  image_position: center 40%
 show_overlay_title: true
 share: false
 classes: wide
