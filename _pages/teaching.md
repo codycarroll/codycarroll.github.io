@@ -121,5 +121,17 @@ __Mentoring__<br/>
 </ul> <br/>
 
 
+<u>University of California, Davis</u> <br/>
+<em>Undergraduate Research Advising</em><br/>
+<ul>
+  2017-2020, NSF Research Training Group, Dept. of Statistics
+<li>  Hainiu Xu &mdash; warping methods for wearable device data (also undergraduate honors thesis, 2020) </li>
+<li>  Phoebe Biying Li &mdash; functional regression for wearable device data </li>
+<li>  Weiyi Chen &mdash; functional clustering for wearable device data </li>
+<li>  Yunbai Zhang &mdash; geographic trends for functional housing price data </li>
+<li>  Cynthia Lai &mdash; functional data analysis of global temperature extrema </li>
+</ul> <br/>
+
+
 
 
