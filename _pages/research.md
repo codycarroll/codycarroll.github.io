@@ -34,6 +34,7 @@ author_profile: false
 .research-area.reverse { flex-direction: row-reverse; }
 
 .ra-figure { flex: 0 0 48%; margin: 0; }
+.ra-figure--lg { flex-basis: 58%; }
 .ra-figure a { display: block; }
 .ra-figure img {
   width: 100%;
@@ -103,15 +104,15 @@ author_profile: false
       <p class="ra-pubs"><span class="ra-pubs-label">Key works</span>
         <a href="/assets/pdf/warpingsep.pdf" target="_blank">Latent Deformation Models</a> (<em>Biometrics</em>, 2023) ·
         <a href="/assets/pdf/xcr.pdf" target="_blank">Cross-component Registration</a> (<em>Biometrics</em>, 2021) ·
-        <a href="/assets/pdf/covid_delay.pdf" target="_blank">Learning Delay Dynamics for COVID-19 Growth</a> (<em>J. Math. Anal. Appl.</em>, 2022) ·
         <a href="/assets/pdf/covid.pdf" target="_blank">Time Dynamics of COVID-19</a> (<em>Scientific Reports</em>, 2020) ·
+        <a href="/assets/pdf/covid_delay.pdf" target="_blank">Learning Delay Dynamics for COVID-19 Growth</a> (<em>J. Math. Anal. Appl.</em>, 2022) ·
         <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a>
       </p>
     </div>
   </section>
 
   <section class="research-area reverse">
-    <div class="ra-figure">
+    <div class="ra-figure ra-figure--lg">
       <a href="/assets/pdf/birds_citsci.pdf" target="_blank">
         <img src="/assets/images/research/conservation.jpg" alt="Seasonality patterns of four California bird species reconstructed separately from eBird and iNaturalist participatory science records">
       </a>
@@ -133,7 +134,7 @@ author_profile: false
   </section>
 
   <section class="research-area">
-    <div class="ra-figure">
+    <div class="ra-figure ra-figure--lg">
       <a href="/assets/pdf/abra.pdf" target="_blank">
         <img src="/assets/images/research/health.jpg" alt="Auditory brainstem response waveforms analyzed across sound levels, with automated peak detection and hearing threshold estimation">
       </a>
@@ -141,7 +142,7 @@ author_profile: false
     </div>
     <div class="ra-body">
       <h3>Statistical modeling of healthcare data</h3>
-      <p>On the biomedical side, I work with ophthalmologists at Stanford Medicine on predicting progressive vision loss in glaucoma patients from electronic health records, using statistical and machine learning methods. I also collaborate with auditory researchers at UC San Diego, where our team developed ABRA, an open-source deep learning toolbox for automated auditory brainstem response analysis. At UCSF, I work with Hui Lin and Jean-Philippe Coppé on kinase signaling in cancer, using graph neural networks and protein language model embeddings to identify the kinases that drive resistance to treatment. Separately, I collaborate with the <a href="http://capralab.org/" target="_blank">Capra Lab</a> in epidemiology and biostatistics. I also work with the <a href="https://ketamineresearchfoundation.org/" target="_blank">Ketamine Research Foundation</a>, characterizing longitudinal change in depression and anxiety among adolescents and young adults receiving ketamine-assisted psychotherapy.</p>
+      <p>On the biomedical side, I work with ophthalmologists at Stanford Medicine on predicting progressive vision loss in glaucoma patients from electronic health records, using statistical and machine learning methods. I also collaborate with auditory researchers in the <a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab</a> at UC San Diego, where our team developed ABRA, an open-source deep learning toolbox for automated auditory brainstem response analysis. At UCSF, I work with Hui Lin and Jean-Philippe Coppé on kinase signaling in cancer, using graph neural networks and protein language model embeddings to identify the kinases that drive resistance to treatment. Separately, I collaborate with the <a href="http://capralab.org/" target="_blank">Capra Lab</a> in epidemiology and biostatistics. I also work with the <a href="https://ketamineresearchfoundation.org/" target="_blank">Ketamine Research Foundation</a>, characterizing longitudinal change in depression and anxiety among adolescents and young adults receiving ketamine-assisted psychotherapy.</p>
       <p class="ra-pubs"><span class="ra-pubs-label">Key works</span>
         <a href="https://doi.org/10.1038/s41598-026-38045-1" target="_blank">ABRA Deep Learning Toolbox</a> (<em>Scientific Reports</em>, 2026) ·
         <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">FPCA for Glaucoma Progression</a> (<em>Frontiers in Ophthalmology</em>, 2025) ·
