@@ -15,6 +15,8 @@ author_profile: true
 Publications
 ---------------
 
+<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>.</p>
+
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
 A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
@@ -37,7 +39,7 @@ H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Car
 T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine 53(1), 31–40 (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
 
 + _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ <br/>
-Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., <b>Carroll, C.</b>, Zhou, Y.,  and Müller, H. G.  _Journal of Mathematical Analysis and Applications, 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
+P. Dubey, Y. Chen, Á. Gajardo, S. Bhattacharjee, <b>C. Carroll</b>, Y. Zhou, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
 
 +  _Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves._<br/>
 <b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics 77(3), 839–851 (2021)._ <br/> <a href="/assets/pdf/xcr.pdf" target="_blank">(pdf)</a>.
@@ -47,7 +49,7 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 
 
 +  _Time dynamics of COVID-19._ <br/>
-<b>Carroll, C.</b>, Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J., Gajardo, Á ., Zhou, X., Müller, H. G., and Wang, J-L. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
+<b>C. Carroll</b>, S. Bhattacharjee, Y. Chen, P. Dubey, J. Fan, Á. Gajardo, X. Zhou, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
 
 + _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
 R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
@@ -57,7 +59,7 @@ Preprints
 ---------------
 
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
-J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026, under review._ <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
+J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026._ <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
 + _Improving Conservation Efficiency with Large Language Models._<br/>
 R. Bernstein, S. Waterman, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="/assets/pdf/chatgde.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a>.
@@ -83,7 +85,7 @@ A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>,
 + NorCal Bird Dashboard <br/>
 <b>C. Carroll</b>, S. Waterman, A. Zhang. _(2024)._ <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
 
-+ BirdSense Bid for Birds Dashboard <br/>
++ BirdSense for Bird Dashboards <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
 
 

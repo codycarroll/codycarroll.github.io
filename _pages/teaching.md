@@ -93,7 +93,7 @@ __Mentoring__<br/>
 <ul>
   2025-2026
 <li>  Ernesto Diaz and Amelia Klaus @ <a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a>, with Scott Coffin and Felicia Chiang </li>
-<li>  Borna Karimi, Neel Deshmukh, Andrew Lim, and Lokesh Muvva @ <a href="https://radonc.ucsf.edu/" target="_blank">UCSF Radiation Oncology</a>, with Hui Lin and Jean-Phillipe Coppé </li>
+<li>  Borna Karimi, Neel Deshmukh, Andrew Lim, and Lokesh Muvva @ <a href="https://radonc.ucsf.edu/" target="_blank">UCSF Radiation Oncology</a>, with Hui Lin and Jean-Philippe Coppé </li>
 <li>  Vu Chu-Le and Tianyi Luo @ <a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab at UC San Diego</a>, with Uri Manor </li>
 <li>  John Hutchens @ <a href="http://capralab.org/" target="_blank">Capra Lab at UCSF Dept. of Epidemiology and Biostatistics</a>, with Tony Capra </li>
 <li>  Jianing (Ari) Li and Aatish Lobo @ <a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a>, with Annie Taylor and Kirk Klausmeyer </li>
