@@ -15,16 +15,16 @@ author_profile: true
 Publications
 ---------------
 
-<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>.</p>
+<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>. &#42; denotes equal first authorship; &#8225; denotes data-science supervising author (mentored the first author).</p>
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
+A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll&#8225;</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
 + _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
 J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
-R. K. Donnipadu, M. Sivolella, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
+R. K. Donnipadu, M. Sivolella, <b>C. Carroll&#8225;</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Comparative Embryology and Transcriptomics of Asellus infernus, an Isopod Crustacean From Sulfidic Groundwater._<br/>
 H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._ <a href="/assets/pdf/isopods.pdf" target="_blank">(pdf)</a>.
@@ -52,7 +52,7 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 <b>C. Carroll</b>, S. Bhattacharjee, Y. Chen, P. Dubey, J. Fan, Á. Gajardo, X. Zhou, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
 
 + _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
-R. B. Huey, <b>C. Carroll</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
+R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
 Preprints
