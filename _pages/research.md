@@ -15,14 +15,6 @@ author_profile: false
 /* no author sidebar on this page: let content use the full width */
 .layout--single .page { width: 100%; padding-right: 0; }
 
-.research-lede {
-  font-size: 1.15em;
-  line-height: 1.6;
-  max-width: 60em;
-  margin: 0.5em 0 2.4em;
-}
-.research-lede strong { color: #2c7a93; }
-
 .research-areas { margin: 0; }
 
 .research-area {
@@ -86,8 +78,6 @@ author_profile: false
   .ra-figure { flex-basis: auto; width: 100%; }
 }
 </style>
-
-<p class="research-lede">I'm an applied statistician and data scientist. My methodological work develops tools for <strong>complex, structured data</strong>: functional curves, longitudinal trajectories, and signals that resist off-the-shelf methods. I apply these tools in close collaboration with scientists across ecology, medicine, and public health. Most of my projects fall into one of three areas, or a combination thereof.</p>
 
 <div class="research-areas">
 
