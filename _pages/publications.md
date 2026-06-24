@@ -15,16 +15,18 @@ author_profile: true
 Publications
 ---------------
 
-<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>. &#42; denotes equal first authorship; &#8225; denotes data-science supervising author (mentored the first author).</p>
+<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>.<br/>
+&#42; denotes equal first authorship.<br/>
+&dagger; denotes a student under mentorship.</p>
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra, C. Miller, J. Chen, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll&#8225;</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
+A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
 + _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
-J. M. Lundin, A. Zhang, N. Karim, H. Louzan, V. Wei, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
+J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
-R. K. Donnipadu, M. Sivolella, <b>C. Carroll&#8225;</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
+R. K. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Comparative Embryology and Transcriptomics of Asellus infernus, an Isopod Crustacean From Sulfidic Groundwater._<br/>
 H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Carroll</b>, et al. _Evolution & Development 27(3), e70014 (2025)._ <a href="/assets/pdf/isopods.pdf" target="_blank">(pdf)</a>.
@@ -59,15 +61,15 @@ Preprints
 ---------------
 
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
-J. M. Lundin, A. Zhang, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026._ <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
+J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026._ <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
 + _Improving Conservation Efficiency with Large Language Models._<br/>
-R. Bernstein, S. Waterman, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="/assets/pdf/chatgde.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a>.
+R. Bernstein&dagger;, S. Waterman&dagger;, N. Murphy, K. Klausmeyer, <b>C. Carroll</b>. _Journal of Environmental Management, under review (2025)._ <a href="/assets/pdf/chatgde.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a>.
 
 
 Whitepapers
 ---------------
-+ X. Wang, W.-C. Liao, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._
++ X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._
 <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a>
 
 
@@ -79,11 +81,11 @@ Software
 + fdapace: Functional Data Analysis and Empirical Dynamics- 2019 -- present  [(R package)](https://cran.r-project.org/web/packages/fdapace/index.html)<br/>
 _Contributing author and former maintainer_ <a href="/assets/images/fdapace_download.png" target="_blank"></a> <br/>
 
-+ Auditory Brainstem Response Analyzer (ABRA) <br/>
-A. Erra, J. Chen, C. Miller, Y. Kassim, L. Ashebir, P. Patel, <b>C. Carroll</b>, U. Manor. _Zenodo (2025)._ <a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
++ Automatic Auditory Brainstem Response Analyzer (ABRA) <br/>
+<b>C. Carroll</b>, A. Erra&dagger;. _Zenodo (2025)._ <a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
 
 + NorCal Bird Dashboard <br/>
-<b>C. Carroll</b>, S. Waterman, A. Zhang. _(2024)._ <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
+<b>C. Carroll</b>, S. Waterman&dagger;, A. Zhang&dagger;. _(2024)._ <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
 
 + BirdSense for Bird Dashboards <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
