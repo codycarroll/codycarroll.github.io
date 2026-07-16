@@ -59,15 +59,12 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
-Preprints
+Preprints & Whitepapers
 ---------------
 
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
 J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
-
-Whitepapers
----------------
 + A. Lobo&dagger;, J. Li&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring. _The Nature Conservancy, (2026)._
 <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>
 
@@ -98,13 +95,13 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Joint AAPM/COMP Meeting, Vancouver, BC,
 Software
 ---------------
 
-+ fdapace: Functional Data Analysis and Empirical Dynamics- 2019 -- present  [(R package)](https://cran.r-project.org/web/packages/fdapace/index.html)<br/>
++ fdapace: Functional Data Analysis and Empirical Dynamics [(R package)](https://cran.r-project.org/web/packages/fdapace/index.html)<br/>
 
 + Automatic Auditory Brainstem Response Analyzer (ABRA) <br/>
 <a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
 
 + NorCal Bird Dashboard <br/>
-<b>C. Carroll</b>, S. Waterman&dagger;, A. Zhang&dagger;. _(2024)._ <a href="https://birds-dash-547zxcr6ea-uc.a.run.app/" target="_blank">(Interactive Dashboard.)</a> <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
+<b>C. Carroll</b>, S. Waterman&dagger;, A. Zhang&dagger;. <a href="https://birds-dash-547zxcr6ea-uc.a.run.app/" target="_blank">(Interactive Dashboard.)</a> <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
 
 + BirdSense for Bird Dashboards <br/>
 <a href="https://xinyiwang-jessica.github.io/TNC-BirdSense-Workflows/" target="_blank">(Interactive Dashboard.)</a>
