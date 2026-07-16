@@ -118,7 +118,7 @@ author_profile: false
       <span class="ra-credit">Seasonality of four bird species reconstructed separately from eBird and iNaturalist records. The two platforms largely agree on the timing of each species. <span class="ra-cite">From C. et al., Citizen Science: Theory and Practice (2025).</span></span>
       <div class="research-video">
         {% include video id="pmHnEEVzpmI" provider="youtube" %}
-        <span class="ra-credit">A walkthrough of the automated pipeline that counts sea urchins in kelp forest survey footage to support restoration monitoring. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
+        <span class="ra-credit">UrchSearch Demo: Urchin Detection for Kelp Forest Restoration. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
       </div>
     </div>
     <div class="ra-body">
@@ -126,7 +126,7 @@ author_profile: false
       <p>I work with conservation scientists at The Nature Conservancy and UC Davis. Current projects include validating participatory science data by comparing bird seasonality patterns across eBird and iNaturalist, developing satellite-based monitoring workflows for field flooding, building an automated pipeline to count sea urchins for kelp forest restoration monitoring, and using large language models to accelerate groundwater sustainability plan reviews. I also maintain the NorCal Bird Dashboard, an interactive tool for exploring bird observation data across Northern California. My collaborations in biology include neonatal survival in non-domestic Caprinae with veterinarians at the San Diego Zoo, the comparative biology of a groundwater isopod, and the determinants of success and survival for Mount Everest mountaineers.</p>
       <p class="ra-pubs"><span class="ra-pubs-label">Key works</span>
         <a href="/assets/pdf/birds_citsci.pdf" target="_blank">eBird vs. iNaturalist Seasonality</a> (<em>Citizen Science: Theory and Practice</em>, 2025) ·
-        <a href="/assets/pdf/chatgde.pdf" target="_blank">LLMs for Conservation Efficiency</a> ·
+        <a href="/assets/pdf/chatgde.pdf" target="_blank">LLMs for Conservation Efficiency</a> (<em>Environmental Challenges</em>, 2026) ·
         <a href="/assets/pdf/goats.pdf" target="_blank">Neonatal Survivability in Non-Domestic Caprinae</a> (<em>Journal of Zoo and Wildlife Medicine</em>, 2022) ·
         <a href="/assets/pdf/isopods.pdf" target="_blank">Embryology and Transcriptomics of a Groundwater Isopod</a> (<em>Evolution &amp; Development</em>, 2025) ·
         <a href="/assets/pdf/everest.pdf" target="_blank">Mountaineers on Mount Everest</a> (<em>PLoS One</em>, 2020) ·
