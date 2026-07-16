@@ -15,6 +15,12 @@ author_profile: false
 /* no author sidebar on this page: let content use the full width */
 .layout--single .page { width: 100%; padding-right: 0; }
 
+/* widen the overall content area on this page so the text column isn't cramped */
+#main { max-width: 1500px; }
+/* widen the top nav bar and header title to match the wider content */
+.masthead__inner-wrap { max-width: 1500px; }
+.page__hero--overlay .wrapper { max-width: 1500px; }
+
 .research-areas { margin: 0; }
 
 .research-area {
@@ -25,8 +31,8 @@ author_profile: false
 }
 .research-area.reverse { flex-direction: row-reverse; }
 
-.ra-figure { flex: 0 0 60%; margin: 0; }
-.ra-figure--lg { flex-basis: 72%; }
+.ra-figure { flex: 0 0 56%; margin: 0; }
+.ra-figure--lg { flex-basis: 66%; }
 .ra-figure a { display: block; }
 .ra-figure img {
   width: 100%;
