@@ -74,7 +74,8 @@ author_profile: false
 .ra-pubs a { font-weight: 600; }
 
 .research-video {
-  margin: 1.5rem 0 0;
+  max-width: 900px;
+  margin: 0 auto 3.4rem;
 }
 .research-video .responsive-video-container {
   border-radius: 10px;
@@ -116,10 +117,6 @@ author_profile: false
         <img src="/assets/images/research/conservation.jpg" alt="Seasonality patterns of four California bird species reconstructed separately from eBird and iNaturalist participatory science records">
       </a>
       <span class="ra-credit">Seasonality of four bird species reconstructed separately from eBird and iNaturalist records. The two platforms largely agree on the timing of each species. <span class="ra-cite">From C. et al., Citizen Science: Theory and Practice (2025).</span></span>
-      <div class="research-video">
-        {% include video id="pmHnEEVzpmI" provider="youtube" %}
-        <span class="ra-credit">UrchSearch Demo: Urchin Detection for Kelp Forest Restoration. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
-      </div>
     </div>
     <div class="ra-body">
       <h3>Conservation, citizen science, and biology</h3>
@@ -136,6 +133,13 @@ author_profile: false
       </p>
     </div>
   </section>
+
+  <div class="research-video">
+    <div class="responsive-video-container">
+      <iframe src="https://www.youtube-nocookie.com/embed/pmHnEEVzpmI?vq=hd1080" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <span class="ra-credit">UrchSearch Demo: Urchin Detection for Kelp Forest Restoration. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
+  </div>
 
   <section class="research-area">
     <div class="ra-figure ra-figure--lg">
