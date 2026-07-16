@@ -116,6 +116,10 @@ author_profile: false
         <img src="/assets/images/research/conservation.jpg" alt="Seasonality patterns of four California bird species reconstructed separately from eBird and iNaturalist participatory science records">
       </a>
       <span class="ra-credit">Seasonality of four bird species reconstructed separately from eBird and iNaturalist records. The two platforms largely agree on the timing of each species. <span class="ra-cite">From C. et al., Citizen Science: Theory and Practice (2025).</span></span>
+      <div class="research-video">
+        {% include video id="pmHnEEVzpmI" provider="youtube" %}
+        <span class="ra-credit">A walkthrough of the automated pipeline that counts sea urchins in kelp forest survey footage to support restoration monitoring. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
+      </div>
     </div>
     <div class="ra-body">
       <h3>Conservation, citizen science, and biology</h3>
@@ -130,10 +134,6 @@ author_profile: false
         <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">Satellite Monitoring of Field Flooding</a> (<em>The Nature Conservancy</em>, 2023) ·
         <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Automated Sea Urchin Counting for Kelp Forest Restoration</a> (<em>The Nature Conservancy</em>, 2026)
       </p>
-      <div class="research-video">
-        {% include video id="pmHnEEVzpmI" provider="youtube" %}
-        <span class="ra-credit">A walkthrough of the automated pipeline that counts sea urchins in kelp forest survey footage to support restoration monitoring. <span class="ra-cite">From Lobo et al., The Nature Conservancy (2026).</span></span>
-      </div>
     </div>
   </section>
 
