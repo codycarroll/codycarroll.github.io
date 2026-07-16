@@ -69,7 +69,7 @@ J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026._ 
 Whitepapers
 ---------------
 + A. Lobo&dagger;, J. Li&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring. _The Nature Conservancy, (2026)._
-<a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a>
+<a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>
 
 + X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._
 <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a>
