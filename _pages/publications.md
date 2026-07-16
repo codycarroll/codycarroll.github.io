@@ -63,7 +63,7 @@ Preprints
 ---------------
 
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
-J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. _TrustNLP 2026._ <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
+J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
 
 Whitepapers
@@ -88,6 +88,9 @@ S. Mulagan&dagger;, S. Y. Wang, <b>C. Carroll</b>. _Creative Activity and Resear
 
 + _FlowZero: Leveraging Satellite Imagery for Proactive Water Management._<br/>
 KD Bartholomew&dagger;, A. Singh&dagger;, <b>C. Carroll</b>, K. Klausmeyer. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">(poster)</a>.
+
++ _Benchmarking Dose-Volume Histogram Prediction Accuracy Between Different Knowledge-Based Models._<br/>
+B. Covele, <b>C. Carroll</b>, K. Moore. _Joint AAPM/COMP Meeting, Vancouver, BC, Canada (2020)._
 
 
 
