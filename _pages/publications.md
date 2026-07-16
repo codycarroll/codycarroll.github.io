@@ -83,6 +83,9 @@ N. Deshmukh&dagger;, H. Lin, J.-P. Coppé, <b>C. Carroll</b>. _Creative Activity
 + _Predicting Glaucoma Progression with a Variable-Time Neural Controlled Differential Equation._<br/>
 S. Mulagan&dagger;, S. Y. Wang, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/posters/Neural_CDE_Glaucoma_Poster.pdf" target="_blank">(poster)</a>.
 
++ _Automated Sea Urchin Detection and Tracking for Kelp Forest Restoration Monitoring._<br/>
+J. Li&dagger;, A. Lobo&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _USF MSDSAI Practicum Showcase (2026)._ <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">(poster)</a>.
+
 + _FlowZero: Leveraging Satellite Imagery for Proactive Water Management._<br/>
 KD Bartholomew&dagger;, A. Singh&dagger;, <b>C. Carroll</b>, K. Klausmeyer. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">(poster)</a>.
 
