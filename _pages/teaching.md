@@ -18,8 +18,9 @@ Teaching
 __Instructor__
 
 <style>
-.teach-table { width: 100%; max-width: 760px; border-collapse: collapse; margin: 0.4rem 0 2.2rem; }
+.teach-table { display: table; width: 100%; max-width: 760px; border-collapse: collapse; margin: 0.4rem 0 2.2rem; }
 .teach-table caption { text-align: left; font-weight: 700; font-size: 1.08em; color: #24487a; padding: 0.2rem 0 0.5rem; }
+.teach-table thead { background: none; border-bottom: 0; }
 .teach-table th { text-align: left; font-variant: small-caps; letter-spacing: 0.04em; font-size: 0.9em; color: #2c7a93; border-bottom: 2px solid #bcd6dd; padding: 0.35rem 1rem 0.35rem 0; }
 .teach-table td { padding: 0.6rem 1rem 0.6rem 0; border-bottom: 1px solid #e2ebe6; vertical-align: top; line-height: 1.6; }
 .teach-table td.term { white-space: nowrap; font-weight: 600; width: 8.5rem; }
@@ -28,7 +29,24 @@ __Instructor__
 .teach-table td.year { white-space: nowrap; font-weight: 600; width: 7rem; color: #24487a; }
 .teach-subhead { margin: 0.2rem 0 0.2rem; font-size: 1.02em; }
 .teach-subhead b { color: #24487a; }
+/* Instructor tables beside the illustration; image sticks alongside the tall table stack. */
+.teach-split { display: flex; align-items: flex-start; gap: 2.5rem; }
+.teach-split__main { flex: 1 1 auto; min-width: 0; }
+.teach-split__aside { flex: 0 0 clamp(220px, 31%, 360px); position: sticky; top: 2rem; margin: 0.4rem 0 0; }
+.teach-split__aside img { display: block; width: 100%; height: auto; }
+/* Narrow screens: fall back to the theme's scrollable block so wide tables aren't clipped. */
+@media (max-width: 767px) {
+  .teach-table--wide { display: block; overflow-x: auto; }
+}
+/* Not enough room for a side-by-side gutter: stack the image under the tables. */
+@media (max-width: 1023px) {
+  .teach-split { display: block; }
+  .teach-split__aside { position: static; max-width: 420px; margin: 0 auto 2.4rem; }
+}
 </style>
+
+<div class="teach-split">
+<div class="teach-split__main">
 
 <table class="teach-table">
   <caption>University of San Francisco</caption>
@@ -63,6 +81,12 @@ __Instructor__
     <tr><td class="term">2014&ndash;2015</td><td>ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan</td></tr>
   </tbody>
 </table>
+
+</div>
+<aside class="teach-split__aside">
+  <img src="/assets/images/quiz-cutout.png" alt="Two black cats with speech bubbles. Ozzy: &ldquo;I&rsquo;m scared for the quiz...&rdquo; Olive: &ldquo;Everything will be ok.&rdquo;">
+</aside>
+</div>
 
 
 
@@ -101,20 +125,6 @@ __Mentoring__
     <tr><td>Xinyi Jessica Wang, Wan-Chun Elena Liao</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
     <tr><td>Devendra Govil, Vichitra Kumar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
     <tr><td>Mohana Medisetty, Yu-Hsin Wang</td><td><a href="https://www.salk.edu/" target="_blank">Salk Institute for Biological Studies</a></td><td>Uri Manor</td></tr>
-  </tbody>
-</table>
-
-<p class="teach-subhead"><b>University of California, Davis</b> &mdash; <em>Undergraduate Research Advising</em></p>
-
-<table class="teach-table teach-table--wide">
-  <caption>NSF Research Training Group, Department of Statistics &middot; 2017&ndash;2020</caption>
-  <thead><tr><th>Student</th><th>Project</th></tr></thead>
-  <tbody>
-    <tr><td>Hainiu Xu</td><td><em>Warping Methods for Wearable Device Data</em> &mdash; undergraduate honors thesis, 2020</td></tr>
-    <tr><td>Phoebe Biying Li</td><td>Functional regression for wearable device data</td></tr>
-    <tr><td>Weiyi Chen</td><td>Functional clustering for wearable device data</td></tr>
-    <tr><td>Yunbai Zhang</td><td>Geographic trends for functional housing price data</td></tr>
-    <tr><td>Cynthia Lai</td><td>Functional data analysis of global temperature extrema</td></tr>
   </tbody>
 </table>
 
