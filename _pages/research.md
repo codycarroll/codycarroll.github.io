@@ -25,8 +25,8 @@ author_profile: false
 }
 .research-area.reverse { flex-direction: row-reverse; }
 
-.ra-figure { flex: 0 0 48%; margin: 0; }
-.ra-figure--lg { flex-basis: 58%; }
+.ra-figure { flex: 0 0 55%; margin: 0; }
+.ra-figure--lg { flex-basis: 66%; }
 .ra-figure a { display: block; }
 .ra-figure img {
   width: 100%;
