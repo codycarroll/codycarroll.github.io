@@ -31,6 +31,10 @@ author_profile: false
 }
 .research-area.reverse { flex-direction: row-reverse; }
 
+/* stacked variant: text on top, figure below (full-width, centered) */
+.research-area--stacked { display: block; }
+.research-area--stacked .ra-figure { max-width: 900px; margin: 1.6rem auto 0; }
+
 .ra-figure { flex: 0 0 56%; margin: 0; }
 .ra-figure--lg { flex-basis: 66%; }
 .ra-figure a { display: block; }
@@ -145,13 +149,7 @@ author_profile: false
     </div>
   </section>
 
-  <section class="research-area">
-    <div class="ra-figure ra-figure--lg">
-      <a href="/assets/pdf/abra.pdf" target="_blank">
-        <img src="/assets/images/research/health.jpg" alt="Auditory brainstem response waveforms analyzed across sound levels, with automated peak detection and hearing threshold estimation">
-      </a>
-      <span class="ra-credit">ABR waveforms analyzed across sound levels, with automated peak detection and threshold estimation. The hearing threshold is the lowest level at which a response is still detectable. <span class="ra-cite">From Erra et al., Scientific Reports (2026).</span></span>
-    </div>
+  <section class="research-area research-area--stacked">
     <div class="ra-body">
       <h3>Statistical modeling of healthcare data</h3>
       <p>On the biomedical side, I work with ophthalmologists at Stanford Medicine on predicting progressive vision loss in glaucoma patients from electronic health records, using statistical and machine learning methods. I also collaborate with auditory researchers in the <a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab</a> at UC San Diego, where our team developed ABRA, an open-source deep learning toolbox for automated auditory brainstem response analysis. At UCSF, I work with Hui Lin and Jean-Philippe Coppé on kinase signaling in cancer, using graph neural networks and protein language model embeddings to identify the kinases that drive resistance to treatment. Separately, I collaborate with the <a href="http://capralab.org/" target="_blank">Capra Lab</a> on protein language models, treating protein sequences as text and adapting language models to predict how mutations affect protein function. I also work with the <a href="https://ketamineresearchfoundation.org/" target="_blank">Ketamine Research Foundation</a>, characterizing longitudinal change in depression and anxiety among adolescents and young adults receiving ketamine-assisted psychotherapy.</p>
@@ -160,6 +158,12 @@ author_profile: false
         <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">FPCA for Glaucoma Progression</a> (<em>Frontiers in Ophthalmology</em>, 2025) ·
         <a href="/assets/pdf/dvh.pdf" target="_blank">Knowledge-Based DVH Prediction</a> (<em>J. Appl. Clin. Med. Phys.</em>, 2021)
       </p>
+    </div>
+    <div class="ra-figure ra-figure--lg">
+      <a href="/assets/pdf/abra.pdf" target="_blank">
+        <img src="/assets/images/research/health.jpg" alt="Auditory brainstem response waveforms analyzed across sound levels, with automated peak detection and hearing threshold estimation">
+      </a>
+      <span class="ra-credit">ABR waveforms analyzed across sound levels, with automated peak detection and threshold estimation. The hearing threshold is the lowest level at which a response is still detectable. <span class="ra-cite">From Erra et al., Scientific Reports (2026).</span></span>
     </div>
   </section>
 
