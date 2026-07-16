@@ -130,7 +130,7 @@ author_profile: false
         <a href="/assets/pdf/goats.pdf" target="_blank">Neonatal Survivability in Non-Domestic Caprinae</a> (<em>Journal of Zoo and Wildlife Medicine</em>, 2022) ·
         <a href="/assets/pdf/isopods.pdf" target="_blank">Embryology and Transcriptomics of a Groundwater Isopod</a> (<em>Evolution &amp; Development</em>, 2025) ·
         <a href="/assets/pdf/everest.pdf" target="_blank">Mountaineers on Mount Everest</a> (<em>PLoS One</em>, 2020) ·
-        <a href="https://github.com/codycarroll/birds_dash/" target="_blank">NorCal Bird Dashboard</a> ·
+        <a href="https://birds-dash-547zxcr6ea-uc.a.run.app/" target="_blank">NorCal Bird Dashboard</a> ·
         <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">Satellite Monitoring of Field Flooding</a> (<em>The Nature Conservancy</em>, 2023) ·
         <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Automated Sea Urchin Counting for Kelp Forest Restoration</a> (<em>The Nature Conservancy</em>, 2026)
       </p>
