@@ -15,8 +15,7 @@ author_profile: true
 Publications
 ---------------
 
-<p style="font-size: 0.9em; color: #6f767d;">My name is shown in <b>bold</b>.<br/>
-&#42; denotes equal first authorship.<br/>
+<p style="font-size: 0.9em; color: #6f767d;">&#42; denotes equal first authorship.<br/>
 &dagger; denotes a student under mentorship.</p>
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
@@ -69,6 +68,9 @@ R. Bernstein&dagger;, S. Waterman&dagger;, N. Murphy, K. Klausmeyer, <b>C. Carro
 
 Whitepapers
 ---------------
++ A. Lobo&dagger;, J. Li&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring. _The Nature Conservancy, (2026)._
+<a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a>
+
 + X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. An Automated Workflow for Satellite-based Monitoring of Field Flooding. _The Nature Conservancy, (2023)._
 <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a>
 
