@@ -75,6 +75,15 @@ Whitepapers
 <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(Github page.)</a>
 
 
+Posters
+---------------
++ _Network-Informed Functional Kinase Activity Profiling in a BRAF-Mutant Colorectal Cancer Patient-Derived Xenograft Model._<br/>
+B. Karimi&dagger;, H. Lin, <b>C. Carroll</b>, J.-P. Coppé. _American Society for Radiation Oncology (ASTRO) Annual Meeting (2026)._ <a href="/assets/pdf/Network_Kinase_Profiling.pdf" target="_blank">(poster)</a>.
+
++ _Benchmarking Protein Language Model Embeddings for Kinase-Substrate Link Prediction._<br/>
+N. Deshmukh&dagger;, H. Lin, J.-P. Coppé, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/Protein_LLM_kinase.pdf" target="_blank">(poster)</a>.
+
+
 
 
 Software
@@ -84,7 +93,7 @@ Software
 _Contributing author and former maintainer_ <a href="/assets/images/fdapace_download.png" target="_blank"></a> <br/>
 
 + Automatic Auditory Brainstem Response Analyzer (ABRA) <br/>
-<b>C. Carroll</b>, A. Erra&dagger;. _Zenodo (2025)._ <a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
+<a href="https://zenodo.org/records/17584961" target="_blank">(Zenodo.)</a> <br/>
 
 + NorCal Bird Dashboard <br/>
 <b>C. Carroll</b>, S. Waterman&dagger;, A. Zhang&dagger;. _(2024)._ <a href="https://birds-dash-547zxcr6ea-uc.a.run.app/" target="_blank">(Interactive Dashboard.)</a> <a href="https://github.com/codycarroll/birds_dash/" target="_blank">(Github page.)</a> <br/>
