@@ -15,8 +15,8 @@ author_profile: true
 Publications
 ---------------
 
-<p style="font-size: 0.9em; color: #6f767d;">&#42; denotes equal first authorship.<br/>
-&dagger; denotes a student under mentorship.</p>
+<p style="font-size: 0.9em; color: #6f767d;">&dagger; denotes a student under mentorship.<br/>
+&#42; denotes equal first authorship.</p>
 
 + _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
 A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
