@@ -151,10 +151,6 @@ author_profile: false
         <img src="/assets/images/research/health.jpg" alt="Auditory brainstem response waveforms analyzed across sound levels, with automated peak detection and hearing threshold estimation">
       </a>
       <span class="ra-credit">ABR waveforms analyzed across sound levels, with automated peak detection and threshold estimation. The hearing threshold is the lowest level at which a response is still detectable. <span class="ra-cite">From Erra et al., Scientific Reports (2026).</span></span>
-      <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank" style="margin-top: 1.4rem;">
-        <img src="/assets/images/research/health2.jpg" alt="Predicted visual field trajectories for sample fast and slow glaucoma progressors, and scatterplots of actual versus predicted mean deviation colored by prediction horizon">
-      </a>
-      <span class="ra-credit">Predicted visual field trajectories for sample fast and slow glaucoma progressors (top), with actual versus predicted mean deviation across prediction horizons (bottom). <span class="ra-cite">From Donnipadu et al., Frontiers in Ophthalmology (2025).</span></span>
     </div>
     <div class="ra-body">
       <h3>Statistical modeling of healthcare data</h3>
