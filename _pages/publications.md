@@ -25,7 +25,7 @@ A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. K
 J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
 + _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
-R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Environmental Challenges, 101575 (2026)._ <a href="/assets/pdf/chatgde.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a> <a href="https://doi.org/10.1016/j.envc.2026.101575" target="_blank">(doi)</a>.
+R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Environmental Challenges, 101575 (2026)._ <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/chatgde_poster.pdf" target="_blank">(poster)</a> <a href="https://doi.org/10.1016/j.envc.2026.101575" target="_blank">(doi)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
 R. K. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
