@@ -75,10 +75,10 @@ __Instructor__
 </table>
 
 <table class="teach-table">
-  <caption>International Experience</caption>
+  <caption>Nishinomiya Imazu Senior High School &middot; Nishinomiya, Japan</caption>
   <thead><tr><th>Term</th><th>Role</th></tr></thead>
   <tbody>
-    <tr><td class="term">2014&ndash;2015</td><td>ESL Teacher, Nishinomiya Imazu Senior High School, Nishinomiya, Japan</td></tr>
+    <tr><td class="term">2014&ndash;2015</td><td>ESL Teacher</td></tr>
   </tbody>
 </table>
 
