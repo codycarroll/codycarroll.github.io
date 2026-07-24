@@ -12,7 +12,6 @@ author_profile: true
 ---
 
 My full CV can be found <a href="/assets/pdf/cv.pdf" target="_blank">here</a>.
----------------
 
 
 Academic and Industry Positions
@@ -36,15 +35,15 @@ Wells Fargo
 Education
 ---------------
 
-__2015 - 2021__<br/>
+__2021__<br/>
 Ph.D. in Statistics<br/>
 University of California, Davis
 
-__2015 - 2017__<br/>
+__2017__<br/>
 M.S. in Statistics<br/>
 University of California, Davis
 
-__2011 - 2014__<br/>
+__2014__<br/>
 B.S. in Mathematics<br/>
 University of Texas at Austin
 

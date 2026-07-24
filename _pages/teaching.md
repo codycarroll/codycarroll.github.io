@@ -112,8 +112,8 @@ __Mentoring__
   <caption>Past Students</caption>
   <thead><tr><th>Year</th><th>Students</th><th>Partner Organization</th><th>Co-mentor(s)</th></tr></thead>
   <tbody>
-    <tr><td class="year" rowspan="6">2024&ndash;2025</td><td>Amit Chaubey, Emma Casal</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-    <tr><td>Kd Bartholomew, Aman Singh</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
+    <tr><td class="year" rowspan="6">2024&ndash;2025</td><td>Amit Chaubey, Emma Salazar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
+    <tr><td>KD Bartholomew, Aman Singh</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
     <tr><td>Leah Ashebir, Peeyush Patel</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
     <tr><td>Ada Zhang, Hamza Louzan, Victor Wei, Nihal Karim</td><td><a href="https://www.gatesfoundation.org/" target="_blank">Gates Foundation</a></td><td>Jessica Lundin</td></tr>
     <tr><td>Helen Lin, Kavin Indirajith</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin</td></tr>
