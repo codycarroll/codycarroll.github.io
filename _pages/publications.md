@@ -77,6 +77,9 @@ Posters
 + _Network-Informed Functional Kinase Activity Profiling in a BRAF-Mutant Colorectal Cancer Patient-Derived Xenograft Model._<br/>
 B. Karimi&dagger;, H. Lin, <b>C. Carroll</b>, J.-P. Coppé. _American Society for Radiation Oncology (ASTRO) Annual Meeting (2026)._ <a href="/assets/pdf/posters/Network_Kinase_Profiling.pdf" target="_blank">(poster)</a>.
 
++ _Teaching Taichi as Participatory Arts in Multilingual Communities for Healthy Aging and Wellness._<br/>
+E. Y. Ho, S. Pak, J. Lu, J. Leung, A. Gent, <b>C. Carroll</b>, G. Leung, et al. _International Conference on Communication in Healthcare (ICCH), Belfast, Northern Ireland (2026)._
+
 + _Benchmarking Protein Language Model Embeddings for Kinase-Substrate Link Prediction._<br/>
 N. Deshmukh&dagger;, H. Lin, J.-P. Coppé, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/Protein_LLM_kinase.pdf" target="_blank">(poster)</a>.
 
@@ -86,8 +89,29 @@ S. Mulagan&dagger;, S. Y. Wang, <b>C. Carroll</b>. _Creative Activity and Resear
 + _Automated Sea Urchin Detection and Tracking for Kelp Forest Restoration Monitoring._<br/>
 J. Li&dagger;, A. Lobo&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _USF MSDSAI Practicum Showcase (2026)._ <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">(poster)</a>.
 
++ _To Merge or Not to Merge? A Circular Optimal Transport-Based Framework for Comparing and Fusing Seasonality Pattern Data across Participatory Science Platforms, with Application to eBird and iNaturalist._<br/>
+<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _International Society for Ecological Modeling (ISEM) Global Conference, Tokyo, Japan (2025)._
+
++ _Long-Term Spatial Prediction of Glaucomatous Visual Field Loss._<br/>
+A. Chaubey&dagger;, E. Salazar&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Creative Activity and Research Day, USF (2025)._
+
++ _Low Resource Languages Pay Twice: Quantifying the High- vs. Low-Resource Language Gap in Predicting Large Language Model Accuracy through Tokenization Fertility and Parity._<br/>
+J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
+
 + _FlowZero: Leveraging Satellite Imagery for Proactive Water Management._<br/>
 KD Bartholomew&dagger;, A. Singh&dagger;, <b>C. Carroll</b>, K. Klausmeyer. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">(poster)</a>.
+
++ _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
+R. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _American Medical Informatics Association (AMIA) Symposium; and Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
+
++ _Automated Analysis for Auditory Brainstem Responses (ABRs) in Mice._<br/>
+J. Chen&dagger;, A. Erra&dagger;, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._
+
++ _Chat GDE: Can Large Language Models Evaluate Sustainability Plans for Groundwater Dependent Ecosystems?_<br/>
+R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a>.
+
++ _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
+X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2023)._ <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a>.
 
 + _Benchmarking Dose-Volume Histogram Prediction Accuracy Between Different Knowledge-Based Models._<br/>
 B. Covele, <b>C. Carroll</b>, K. Moore. _Joint AAPM/COMP Meeting, Vancouver, BC, Canada (2020)._
