@@ -105,7 +105,7 @@ author_profile: false
       <a href="/assets/pdf/warpingsep.pdf" target="_blank">
         <img src="/assets/images/research/fda.jpg" alt="A latent deformation model that builds multivariate functional data from a shared latent process, warping each component onto its own time scale before producing the observed curves">
       </a>
-      <span class="ra-credit">The latent deformation model assembles multivariate curves from a shared latent process, warping each component onto its own internal clock before the curves are observed. <span class="ra-cite">From C. and Müller, Biometrics (2023).</span></span>
+      <span class="ra-credit">The latent deformation model assembles multivariate curves from a shared latent process, warping each component onto its own internal clock before the curves are observed. <span class="ra-cite">From Carroll and Müller, Biometrics (2023).</span></span>
     </div>
     <div class="ra-body">
       <h3>Functional and longitudinal data analysis</h3>
@@ -125,7 +125,7 @@ author_profile: false
       <a href="/assets/pdf/birds_citsci.pdf" target="_blank">
         <img src="/assets/images/research/conservation.jpg" alt="Seasonality patterns of four California bird species reconstructed separately from eBird and iNaturalist participatory science records">
       </a>
-      <span class="ra-credit">Seasonality of four bird species reconstructed separately from eBird and iNaturalist records. The two platforms largely agree on the timing of each species. <span class="ra-cite">From C. et al., Citizen Science: Theory and Practice (2025).</span></span>
+      <span class="ra-credit">Seasonality of four bird species reconstructed separately from eBird and iNaturalist records. The two platforms largely agree on the timing of each species. <span class="ra-cite">From Carroll et al., Citizen Science: Theory and Practice (2025).</span></span>
       <div class="research-video">
         <div class="responsive-video-container">
           <iframe src="https://www.youtube-nocookie.com/embed/pmHnEEVzpmI?vq=hd1080" frameborder="0" allowfullscreen></iframe>

@@ -40,23 +40,23 @@ H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Car
 <b>C. Carroll</b> and H.-G. Müller.  _Biometrics 79(4), 3345–3358 (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
 
 + _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ <br/>
-P. Dubey, Y. Chen, Á. Gajardo, S. Bhattacharjee, <b>C. Carroll</b>, Y. Zhou, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
+P. Dubey, Y. Chen, Á. Gajardo, S. Bhattacharjee, <b>C. Carroll</b>, Y. Zhou, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>.
 
 + _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._<br/>
 T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine 53(1), 31–40 (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
 
 +  _Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves._<br/>
-<b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics 77(3), 839–851 (2021)._ <br/> <a href="/assets/pdf/xcr.pdf" target="_blank">(pdf)</a>.
+<b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics 77(3), 839–851 (2021)._ <a href="/assets/pdf/xcr.pdf" target="_blank">(pdf)</a>.
 
 +  _A Practical Method to Quantify Knowledge-Based Dose Volume Histogram Prediction Accuracy and Uncertainty with Reference Cohorts._ <br/>
-B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics 22(3), 279–284 (2021)._ <br/> <a href="/assets/pdf/dvh.pdf" target="_blank">(pdf)</a>.
+B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Physics 22(3), 279–284 (2021)._ <a href="/assets/pdf/dvh.pdf" target="_blank">(pdf)</a>.
 
 
 +  _Time dynamics of COVID-19._ <br/>
-<b>C. Carroll</b>, S. Bhattacharjee, Y. Chen, P. Dubey, J. Fan, Á. Gajardo, X. Zhou, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>. <br/>
+<b>C. Carroll</b>, S. Bhattacharjee, Y. Chen, P. Dubey, J. Fan, Á. Gajardo, X. Zhou, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>.
 
 + _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
-R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <br/> <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
+R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
 Preprints & Whitepapers
@@ -111,7 +111,7 @@ J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagg
 KD Bartholomew&dagger;, A. Singh&dagger;, <b>C. Carroll</b>, K. Klausmeyer. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">(poster)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
-R. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _American Medical Informatics Association (AMIA) Symposium; and Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
+R. K. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _American Medical Informatics Association (AMIA) Symposium; and Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Automated Analysis for Auditory Brainstem Responses (ABRs) in Mice._<br/>
 J. Chen&dagger;, A. Erra&dagger;, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._
