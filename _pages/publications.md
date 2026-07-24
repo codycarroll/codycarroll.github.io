@@ -39,11 +39,11 @@ H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Car
 + _Latent Deformation Models for Multivariate Functional Data and Time Warping Separability._<br/>
 <b>C. Carroll</b> and H.-G. Müller.  _Biometrics 79(4), 3345–3358 (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
 
-+ _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._<br/>
-T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine 53(1), 31–40 (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
-
 + _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ <br/>
 P. Dubey, Y. Chen, Á. Gajardo, S. Bhattacharjee, <b>C. Carroll</b>, Y. Zhou, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
+
++ _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._<br/>
+T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine 53(1), 31–40 (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
 
 +  _Cross-component Registration for Multivariate Functional Data, with Application to Growth Curves._<br/>
 <b>C. Carroll</b>, H.-G. Müller, A. Kneip.  _Biometrics 77(3), 839–851 (2021)._ <br/> <a href="/assets/pdf/xcr.pdf" target="_blank">(pdf)</a>.
@@ -65,6 +65,9 @@ Preprints & Whitepapers
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
 J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
++ _Bias Evaluation and Correction of Heat Index Forecasts Using Climate Observations in California._<br/>
+A. Klaus&dagger;, F. Chiang, <b>C. Carroll</b>. _Office of Environmental Health Hazard Assessment (OEHHA), (2026)._ <a href="/assets/pdf/heatindex_modeling.pdf" target="_blank">(pdf)</a>.
+
 + A. Lobo&dagger;, J. Li&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring. _The Nature Conservancy, (2026)._
 <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>
 
@@ -78,7 +81,10 @@ Posters
 B. Karimi&dagger;, H. Lin, <b>C. Carroll</b>, J.-P. Coppé. _American Society for Radiation Oncology (ASTRO) Annual Meeting (2026)._ <a href="/assets/pdf/posters/Network_Kinase_Profiling.pdf" target="_blank">(poster)</a>.
 
 + _Teaching Taichi as Participatory Arts in Multilingual Communities for Healthy Aging and Wellness._<br/>
-E. Y. Ho, S. Pak, J. Lu, J. Leung, A. Gent, <b>C. Carroll</b>, G. Leung, et al. _International Conference on Communication in Healthcare (ICCH), Belfast, Northern Ireland (2026)._
+E. Y. Ho, S. Pak, J. Lu, J. Leung, A. Gent&dagger;, <b>C. Carroll</b>, G. Leung, et al. _International Conference on Communication in Healthcare (ICCH), Belfast, Northern Ireland (2026)._
+
++ _Gentle Movement, Lasting Health: Taichi for Holistic Aging._<br/>
+A. M. Li, Y. Zhong, N. Ha, ..., A. Gent&dagger;, <b>C. Carroll</b>, G. Leung, E. Y. Ho. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/posters/On%20LOK%202026%20CARD%20Poster.pdf" target="_blank">(poster)</a>.
 
 + _Benchmarking Protein Language Model Embeddings for Kinase-Substrate Link Prediction._<br/>
 N. Deshmukh&dagger;, H. Lin, J.-P. Coppé, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/Protein_LLM_kinase.pdf" target="_blank">(poster)</a>.
@@ -89,14 +95,17 @@ S. Mulagan&dagger;, S. Y. Wang, <b>C. Carroll</b>. _Creative Activity and Resear
 + _Automated Sea Urchin Detection and Tracking for Kelp Forest Restoration Monitoring._<br/>
 J. Li&dagger;, A. Lobo&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _USF MSDSAI Practicum Showcase (2026)._ <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">(poster)</a>.
 
++ _Low Resource Languages Pay Twice: Quantifying the High- vs. Low-Resource Language Gap in Predicting Large Language Model Accuracy through Tokenization Fertility and Parity._<br/>
+J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
+
 + _To Merge or Not to Merge? A Circular Optimal Transport-Based Framework for Comparing and Fusing Seasonality Pattern Data across Participatory Science Platforms, with Application to eBird and iNaturalist._<br/>
-<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _International Society for Ecological Modeling (ISEM) Global Conference, Tokyo, Japan (2025)._
+<b>C. Carroll</b>, R. E. Furrow, L. M. Gerhart. _International Society for Ecological Modeling (ISEM) Global Conference, Tokyo, Japan (2025)._ <a href="/assets/pdf/posters/birds_citsci_ISEM_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Long-Term Spatial Prediction of Glaucomatous Visual Field Loss._<br/>
 A. Chaubey&dagger;, E. Salazar&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Creative Activity and Research Day, USF (2025)._
 
 + _Low Resource Languages Pay Twice: Quantifying the High- vs. Low-Resource Language Gap in Predicting Large Language Model Accuracy through Tokenization Fertility and Parity._<br/>
-J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
+J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Low%20Resource%20Language%20Poster%20CARD.pdf" target="_blank">(poster)</a>.
 
 + _FlowZero: Leveraging Satellite Imagery for Proactive Water Management._<br/>
 KD Bartholomew&dagger;, A. Singh&dagger;, <b>C. Carroll</b>, K. Klausmeyer. _Creative Activity and Research Day, USF (2025)._ <a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">(poster)</a>.
@@ -108,7 +117,7 @@ R. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Amer
 J. Chen&dagger;, A. Erra&dagger;, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._
 
 + _Chat GDE: Can Large Language Models Evaluate Sustainability Plans for Groundwater Dependent Ecosystems?_<br/>
-R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a>.
+R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a>.
 
 + _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
 X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2023)._ <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a>.
