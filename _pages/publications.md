@@ -18,14 +18,14 @@ Publications
 <p style="font-size: 0.9em; color: #6f767d;">&dagger; denotes a student under mentorship.<br/>
 &#42; denotes equal first authorship.</p>
 
-+ _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
++ _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
+R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Environmental Challenges, 101575 (2026)._ <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a> <a href="https://doi.org/10.1016/j.envc.2026.101575" target="_blank">(doi)</a>.
 
 + _The Token Tax: Systematic Bias in Multilingual Tokenization._<br/>
 J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
-+ _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
-R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Environmental Challenges, 101575 (2026)._ <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a> <a href="https://doi.org/10.1016/j.envc.2026.101575" target="_blank">(doi)</a>.
++ _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
+A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
 + _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
 R. K. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
