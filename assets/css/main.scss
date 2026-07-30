@@ -4,5 +4,18 @@
 
 @charset "utf-8";
 
+// Site overrides. These must come *before* the skin import: skin variables are
+// declared with !default, so an earlier assignment wins and the skin backs off.
+$background-color: #c8d8ef; // was honeydew #f0fff0 from the aqua skin
+
+// Nav sits directly on $background-color, so the darker page tint dropped the
+// aqua skin's #1976d2 links to 3.18:1. Darken to restore contrast (6.53:1).
+$masthead-link-color: #0f477e;
+$masthead-link-color-hover: #0a3157;
+
+// Footer/meta text was already light at 3.30:1 on the footer's own #e8f1fb.
+// This lifts it to 5.57:1 there, and 6.36:1 for page meta on the white card.
+$muted-text-color: #41618a;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
