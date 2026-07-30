@@ -59,7 +59,7 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
 
 
-Preprints & Whitepapers
+Whitepapers
 ---------------
 
 + _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
