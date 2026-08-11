@@ -27,7 +27,7 @@ R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde
 J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/tokentax.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/abra.jpg" alt=""> _An Open-Source Deep Learning-Based Toolbox for Automated Auditory Brainstem Response Analyses (ABRA)._<br/>
-A. Erra&dagger;, C. Miller, J. Chen&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
+A. Erra&#42;&dagger;, C. Miller&#42;, J. Chen&#42;&dagger;, E. Chrysostomou, S. Barret, Y. M. Kassim, R. A. Friedman, A. Lauer, F. Ceriani, W. Marcotti, <b>C. Carroll</b>, U. Manor. _Scientific Reports (2026)._ <a href="/assets/pdf/abra.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/ABRA_poster.pdf" target="_blank">(poster)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/glaucoma.jpg" alt=""> _Predicting Progressive Vision Loss in Glaucoma Patients Using Functional Principal Component Analysis and Electronic Health Records._<br/>
 R. K. Donnipadu&dagger;, M. Sivolella&dagger;, <b>C. Carroll</b>, S. Y. Wang. _Frontiers in Ophthalmology 5, 1632827 (2025)._ <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">(poster)</a>.
@@ -55,7 +55,7 @@ B. Covele, <b>C. Carroll</b>, K. Moore. _Journal of Applied Clinical Medical Phy
 
 
 + <img class="pub-icon" src="/assets/images/pubs/covid.jpg" alt=""> _Time dynamics of COVID-19._ <br/>
-<b>C. Carroll</b>, S. Bhattacharjee, Y. Chen, P. Dubey, J. Fan, Á. Gajardo, X. Zhou, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>.
+<b>C. Carroll</b>, S. Bhattacharjee&#42;, Y. Chen&#42;, P. Dubey&#42;, J. Fan&#42;, Á. Gajardo&#42;, X. Zhou&#42;, H.-G. Müller, and J.-L. Wang. _Scientific Reports 10(1), 21040 (2020)._ <a href="/assets/pdf/covid.pdf" target="_blank">(pdf)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/everest.jpg" alt=""> _Mountaineers on Mount Everest: effects of age, sex, experience, and crowding on rates of success and death._ <br/>
 R. B. Huey&#42;, <b>C. Carroll&#42;</b>, R. Salisbury, J.-L. Wang. _PLoS One 15(8), e0236919 (2020)._ <a href="/assets/pdf/everest.pdf" target="_blank">(pdf)</a>.
