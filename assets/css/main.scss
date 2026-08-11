@@ -19,3 +19,52 @@ $muted-text-color: #41618a;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Publication entries. The thumbnail stands in for the list bullet, so each
+// entry reserves the same left gutter whether it has an image yet or not and
+// every title lines up. Positioning the image absolutely into that gutter --
+// rather than making the <li> a flex row -- keeps the item a real list-item and
+// avoids needing :has() to spot the entries that still lack an icon.
+.pub-list {
+  ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  li {
+    position: relative;
+    list-style: none;
+    padding-left: 68px;
+    min-height: 56px;
+    margin-bottom: 1.25em;
+
+    @include breakpoint($small) {
+      padding-left: 96px;
+      min-height: 80px;
+    }
+
+    // Kramdown wraps each entry in a <p>; its top margin would drop the title
+    // below the icon it belongs to.
+    > p:first-child {
+      margin-top: 0;
+    }
+  }
+}
+
+.pub-icon {
+  position: absolute;
+  left: 0;
+  top: 0.3em;
+  width: 56px;
+  height: 56px;
+  // Supplied images won't all be square; crop rather than squash them.
+  object-fit: cover;
+  border-radius: 4px;
+  // Plot figures are mostly white and would otherwise dissolve into the page.
+  border: 1px solid rgba(0, 0, 0, 0.1);
+
+  @include breakpoint($small) {
+    width: 80px;
+    height: 80px;
+  }
+}

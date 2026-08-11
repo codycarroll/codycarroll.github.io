@@ -27,6 +27,8 @@ __Instructor__
 .teach-table tbody tr:hover td { background: rgba(59,156,186,0.06); }
 .teach-table--wide { max-width: 100%; }
 .teach-table td.year { white-space: nowrap; font-weight: 600; width: 7rem; color: #24487a; }
+/* Placeholder row for a cohort that hasn't been placed yet. */
+.teach-table td.tbd { color: #5b6b7a; font-style: italic; }
 .teach-subhead { margin: 0.2rem 0 0.2rem; font-size: 1.02em; }
 .teach-subhead b { color: #24487a; }
 /* Instructor tables beside the illustration; image sticks alongside the tall table stack. */
@@ -57,7 +59,7 @@ __Instructor__
     <tr><td class="term">Spring 2025</td><td><a href="https://github.com/codycarroll/advml_s25">Advanced Machine Learning</a><br/>Linear Algebra for Data Science</td></tr>
     <tr><td class="term">Fall 2024</td><td><a href="https://github.com/codycarroll/regression_f24">Linear Regression Analysis</a></td></tr>
     <tr><td class="term">Spring 2024</td><td><a href="https://github.com/codycarroll/m371-s24">Statistics with Applications</a><br/><a href="https://github.com/codycarroll/Intro-DS-S24">Intro to Data Science with R</a><br/>Linear Algebra for Data Science</td></tr>
-    <tr><td class="term">Fall 2023</td><td>Linear Regression<br/><a href="https://github.com/codycarroll/Intro-DS-F23">Intro to Data Science with R</a></td></tr>
+    <tr><td class="term">Fall 2023</td><td>Linear Regression Analysis<br/><a href="https://github.com/codycarroll/Intro-DS-F23">Intro to Data Science with R</a></td></tr>
     <tr><td class="term">Spring 2023</td><td>Advanced Machine Learning<br/>Linear Algebra for Data Science</td></tr>
     <tr><td class="term">Fall 2022</td><td>Machine Learning Laboratory<br/>Communications for Analytics</td></tr>
   </tbody>
@@ -96,22 +98,16 @@ __Mentoring__
 <p class="teach-subhead"><b>University of San Francisco</b> &mdash; <em>Practicum &amp; Research Mentorship</em></p>
 
 <table class="teach-table teach-table--wide">
-  <caption>Current Students &middot; 2025&ndash;2026</caption>
-  <thead><tr><th>Students</th><th>Partner Organization</th><th>Co-mentor(s)</th></tr></thead>
+  <caption>Students by Year</caption>
+  <thead><tr><th>Year</th><th>Students</th><th>Partner Organization</th><th>Co-mentor(s)</th></tr></thead>
   <tbody>
-    <tr><td>Ernesto Diaz, Amelia Klaus</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin, Felicia Chiang</td></tr>
+    <tr><td class="year">2026&ndash;2027</td><td class="tbd" colspan="3">Placements to be announced.</td></tr>
+    <tr><td class="year" rowspan="6">2025&ndash;2026</td><td>Ernesto Diaz, Amelia Klaus</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin, Felicia Chiang</td></tr>
     <tr><td>Borna Karimi, Neel Deshmukh, Andrew Lim, Lokesh Muvva</td><td><a href="https://radonc.ucsf.edu/" target="_blank">UCSF Radiation Oncology</a></td><td>Hui Lin, Jean-Philippe Coppé</td></tr>
     <tr><td>Vu Chu-Le, Tianyi Luo</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
     <tr><td>John Hutchens</td><td><a href="https://capralab.org/" target="_blank">Capra Lab, UCSF Epidemiology &amp; Biostatistics</a></td><td>Tony Capra</td></tr>
     <tr><td>Jianing (Ari) Li, Aatish Lobo</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Annie Taylor, Kirk Klausmeyer</td></tr>
     <tr><td>Shiman Zhang, Sai Mulagan</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-  </tbody>
-</table>
-
-<table class="teach-table teach-table--wide">
-  <caption>Past Students</caption>
-  <thead><tr><th>Year</th><th>Students</th><th>Partner Organization</th><th>Co-mentor(s)</th></tr></thead>
-  <tbody>
     <tr><td class="year" rowspan="6">2024&ndash;2025</td><td>Amit Chaubey, Emma Salazar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
     <tr><td>KD Bartholomew, Aman Singh</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
     <tr><td>Leah Ashebir, Peeyush Patel</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
