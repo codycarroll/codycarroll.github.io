@@ -16,7 +16,7 @@ Publications
 ---------------
 
 <p style="font-size: 0.9em; color: #6f767d;">&dagger; denotes a student under mentorship.<br/>
-&#42; denotes equal first authorship.</p>
+&#42; denotes equal contribution.</p>
 
 <div class="pub-list" markdown="1">
 
@@ -42,7 +42,7 @@ H. J. Lomheim, L. Reyes Rodas, D. Price, S. M. Sarbu, R. I. Băncilă, <b>C. Car
 <b>C. Carroll</b> and H.-G. Müller. _Biometrics 79(4), 3345–3358 (2023)._ <a href="/assets/pdf/warpingsep.pdf" target="_blank">(pdf)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/coviddelay.jpg" alt=""> _Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States._ <br/>
-P. Dubey, Y. Chen, Á. Gajardo, S. Bhattacharjee, <b>C. Carroll</b>, Y. Zhou, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>.
+P. Dubey, Y. Chen&#42;, Á. Gajardo&#42;, S. Bhattacharjee&#42;, <b>C. Carroll&#42;</b>, Y. Zhou&#42;, H. Chen&#42;, and H.-G. Müller. _Journal of Mathematical Analysis and Applications 514(2), 125677 (2022)._ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/goats.jpg" alt=""> _Comparison of Diagnostic Predictors of Neonatal Survivability in Non-Domestic Caprinae._<br/>
 T. N. Bliss, M. J. Marinkovich, R. E. Burns, <b>C. Carroll</b>, M. M. Clancy, L. L. Howard. _Journal of Zoo and Wildlife Medicine 53(1), 31–40 (2022)._ <a href="/assets/pdf/goats.pdf" target="_blank">(pdf)</a>.
