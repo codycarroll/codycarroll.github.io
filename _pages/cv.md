@@ -32,6 +32,11 @@ __2021 - 2022__<br/>
 Data Scientist<br/>
 Wells Fargo
 
+__2014 - 2015__<br/>
+ESL Teacher<br/>
+Nishinomiya Imazu Senior High School<br/>
+Nishinomiya, Japan
+
 Education
 ---------------
 
