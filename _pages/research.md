@@ -137,7 +137,7 @@ author_profile: false
       <span class="ra-credit">The latent deformation model assembles multivariate curves from a shared latent process, warping each component onto its own internal clock before the curves are observed. <span class="ra-cite">From Carroll and Müller, Biometrics (2023).</span></span>
     </div>
     <div class="ra-body">
-      <h3>Functional and longitudinal data analysis</h3>
+      <h3>Biostatistics and functional data analysis</h3>
       <p>Much of my methodological work focuses on functional and longitudinal data, particularly when the data involve multiple components or are subject to time warping. I developed latent deformation models and cross-component registration methods for multivariate functional data, motivated by the study of human growth curves. These methods separate systematic phase variation, such as differences in the timing of growth spurts across individuals and across body measurements, from differences in amplitude. During the COVID-19 pandemic, I applied functional data methods to characterize how case trajectories evolved across countries and to forecast case growth rates in the United States.</p>
       <p class="ra-pubs"><span class="ra-pubs-label">Selected work</span>
         <a href="/assets/pdf/warpingsep.pdf" target="_blank">Latent Deformation Models</a> (<em>Biometrics</em>, 2023) ·
