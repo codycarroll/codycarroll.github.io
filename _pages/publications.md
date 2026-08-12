@@ -74,10 +74,10 @@ J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/
 A. Klaus&dagger;, F. Chiang, <b>C. Carroll</b>. _Office of Environmental Health Hazard Assessment (OEHHA), (2026)._ <a href="/assets/pdf/heatindex_modeling.pdf" target="_blank">(pdf)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/urchins_cc-by_ed-bierman.jpg" alt=""> _An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring._<br/>
-A. Lobo&dagger;, J. Li&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _The Nature Conservancy (2026)._ <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>.
+A. Lobo&#42;&dagger;, J. Li&#42;&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _The Nature Conservancy (2026)._ <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>.
 
 + <img class="pub-icon" src="/assets/images/pubs/birdsense_cc-by_andrew-murray.jpg" alt=""> _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
-X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _The Nature Conservancy (2023)._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(github)</a>.
+X. Wang&#42;&dagger;, W.-C. Liao&#42;&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _The Nature Conservancy (2023)._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(github)</a>.
 
 </div>
 
@@ -99,7 +99,7 @@ N. Deshmukh&dagger;, H. Lin, J.-P. Coppé, <b>C. Carroll</b>. _Creative Activity
 S. Mulagan&dagger;, S. Y. Wang, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/posters/Neural_CDE_Glaucoma_Poster.pdf" target="_blank">(poster)</a>.
 
 + _Automated Sea Urchin Detection and Tracking for Kelp Forest Restoration Monitoring._<br/>
-J. Li&dagger;, A. Lobo&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _USF MSDSAI Practicum Showcase (2026)._ <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">(poster)</a>.
+J. Li&#42;&dagger;, A. Lobo&#42;&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _USF MSDSAI Practicum Showcase (2026)._ <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">(poster)</a>.
 
 + _Low Resource Languages Pay Twice: Quantifying the High- vs. Low-Resource Language Gap in Predicting Large Language Model Accuracy through Tokenization Fertility and Parity._<br/>
 J. M. Lundin, A. Zhang&dagger;, N. Karim&dagger;, H. Louzan&dagger;, V. Wei&dagger;, D. Adelani, <b>C. Carroll</b>. _European Chapter of Association for Computational Linguistics, AfricaNLP 2026 Workshop (2026)._ <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">(poster)</a>.
@@ -126,7 +126,7 @@ J. Chen&dagger;, A. Erra&dagger;, <b>C. Carroll</b>. _Creative Activity and Rese
 R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2024)._ <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a>.
 
 + _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
-X. Wang&dagger;, W.-C. Liao&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2023)._ <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a>.
+X. Wang&#42;&dagger;, W.-C. Liao&#42;&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _Creative Activity and Research Day, USF (2023)._ <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a>.
 
 + _Benchmarking Dose-Volume Histogram Prediction Accuracy Between Different Knowledge-Based Models._<br/>
 B. Covele, <b>C. Carroll</b>, K. Moore. _Joint AAPM/COMP Meeting, Vancouver, BC, Canada (2020)._
