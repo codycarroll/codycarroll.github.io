@@ -36,7 +36,7 @@ author_profile: false
 .research-area--stacked .ra-figure { max-width: 900px; margin: 1.6rem auto 0; }
 
 .ra-figure { flex: 0 0 56%; margin: 0; }
-.ra-figure--lg { flex-basis: 66%; }
+.ra-figure--lg { flex-basis: 72%; }
 .ra-figure a { display: block; }
 .ra-figure img {
   width: 100%;
@@ -114,8 +114,8 @@ author_profile: false
       </div>
     </div>
     <div class="ra-body">
-      <h3>Conservation, citizen science, and biostatistics</h3>
-      <p>I work with conservation scientists at The Nature Conservancy and UC Davis. Current projects include validating participatory science data by comparing bird seasonality patterns across eBird and iNaturalist, developing satellite-based monitoring workflows for field flooding, building an automated pipeline to count sea urchins for kelp forest restoration monitoring, and using large language models to accelerate groundwater sustainability plan reviews. I also maintain the NorCal Bird Dashboard, an interactive tool for exploring bird observation data across Northern California. My collaborations in biology include neonatal survival in non-domestic Caprinae with veterinarians at the San Diego Zoo, the comparative biology of a groundwater isopod, and the determinants of success and survival for Mount Everest mountaineers.</p>
+      <h3>Conservation, citizen science, and biology</h3>
+      <p>With ecologists at UC Davis, I've validated participatory science data by comparing bird seasonality patterns across eBird and iNaturalist. With The Nature Conservancy, I've developed satellite-based monitoring workflows for field flooding, built an automated pipeline to count sea urchins for kelp forest restoration monitoring, and used large language models to accelerate groundwater sustainability plan reviews. I also maintain the NorCal Bird Dashboard, an interactive tool for exploring bird observation data across Northern California. Some collaborations in biology include studying neonatal survival in non-domestic Caprinae with veterinarians at the San Diego Zoo and the comparative biology of a groundwater isopod. Separately, I worked with the researchers behind the Himalayan Database on what predicts success and survival for Mount Everest mountaineers.</p>
       <p class="ra-pubs"><span class="ra-pubs-label">Selected work</span>
         <a href="/assets/pdf/birds_citsci.pdf" target="_blank">eBird vs. iNaturalist Seasonality</a> (<em>Citizen Science: Theory and Practice</em>, 2025) ·
         <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">LLMs for Conservation Efficiency</a> (<em>Environmental Challenges</em>, 2026) ·

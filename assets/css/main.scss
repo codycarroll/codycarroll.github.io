@@ -34,13 +34,13 @@ $muted-text-color: #41618a;
   li {
     position: relative;
     list-style: none;
-    padding-left: 68px;
-    min-height: 56px;
+    padding-left: 84px;
+    min-height: 72px;
     margin-bottom: 1.25em;
 
     @include breakpoint($small) {
-      padding-left: 96px;
-      min-height: 80px;
+      padding-left: 124px;
+      min-height: 108px;
     }
 
     // Kramdown wraps each entry in a <p>; its top margin would drop the title
@@ -55,8 +55,8 @@ $muted-text-color: #41618a;
   position: absolute;
   left: 0;
   top: 0.3em;
-  width: 56px;
-  height: 56px;
+  width: 72px;
+  height: 72px;
   // Supplied images won't all be square; crop rather than squash them.
   object-fit: cover;
   border-radius: 4px;
@@ -64,7 +64,19 @@ $muted-text-color: #41618a;
   border: 1px solid rgba(0, 0, 0, 0.1);
 
   @include breakpoint($small) {
-    width: 80px;
-    height: 80px;
+    width: 108px;
+    height: 108px;
+  }
+}
+
+// Sidebar profile links read as plain text without a decoration, so underline
+// them at rest rather than only on hover.
+.author__urls a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+
+  &:hover {
+    text-decoration-thickness: 2px;
   }
 }
