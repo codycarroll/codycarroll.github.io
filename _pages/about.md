@@ -26,7 +26,7 @@ I started teaching in 2014, as an ESL teacher at Nishinomiya Imazu Senior High S
 
 I work as an applied statistician and data scientist. Most of my job is translation: finding clear ways to carry results across the gap between statisticians and other scientists. I'm drawn to functional and longitudinal data, and to applying those methods in fields where they haven't been tried --- conservation and ecology, citizen science, biology, and healthcare.
 
-I currently work with conservationists at The Nature Conservancy, auditory researchers at UC San Diego, ecologists and psychologists at UC Davis, clinicians at UCSF, and environmental scientists at California's Office of Environmental Health Hazard Assessment. Earlier collaborations were with ophthalmologists at Stanford Medicine, veterinarians at the San Diego Zoo, the Gates Foundation, and the researchers behind Mt. Everest's Himalayan Database.
+I currently work with conservationists at The Nature Conservancy, auditory researchers at UC San Diego, ecologists and psychologists at UC Davis, clinicians at UCSF, and environmental scientists at California's Office of Environmental Health Hazard Assessment. Other collaborations include ophthalmologists at Stanford Medicine, veterinarians at the San Diego Zoo, the Gates Foundation, and the researchers behind Mt. Everest's Himalayan Database.
 
 Most of my working hours are at a screen, so I get outside when I can --- usually road tripping or camping at music festivals around Northern California. 
 
