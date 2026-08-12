@@ -33,7 +33,9 @@ author_profile: false
 .research-area--stacked .ra-figure { max-width: 900px; margin: 1.6rem auto 0; }
 
 .ra-figure { flex: 0 0 56%; margin: 0; }
-.ra-figure--lg { flex-basis: 72%; }
+/* This row carries a figure and a video, so it can afford less width than the
+   figure alone would take; the text column was down to ~360px at 72%. */
+.ra-figure--lg { flex-basis: 62%; }
 .ra-figure a { display: block; }
 .ra-figure img {
   width: 100%;
