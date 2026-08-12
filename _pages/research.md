@@ -15,11 +15,8 @@ author_profile: false
 /* no author sidebar on this page: let content use the full width */
 .layout--single .page { width: 100%; padding-right: 0; }
 
-/* widen the overall content area on this page so the text column isn't cramped */
-#main { max-width: 1500px; }
-/* widen the top nav bar and header title to match the wider content */
-.masthead__inner-wrap { max-width: 1500px; }
-.page__hero--overlay .wrapper { max-width: 1500px; }
+/* Width is set site-wide via $max-width in main.scss, so the nav and hero stay
+   the same width on every page. */
 
 .research-areas { margin: 0; }
 

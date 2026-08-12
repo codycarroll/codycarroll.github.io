@@ -6,6 +6,12 @@
 
 // Site overrides. These must come *before* the skin import: skin variables are
 // declared with !default, so an earlier assignment wins and the skin backs off.
+
+// The research page needs the extra width for its figure-and-text rows. Setting
+// it here rather than on that page alone keeps the masthead and hero the same
+// width everywhere, so the chrome no longer resizes as you move between pages.
+$max-width: 1500px; // theme default is $x-large (1280px)
+
 $background-color: #c8d8ef; // was honeydew #f0fff0 from the aqua skin
 
 // Nav sits directly on $background-color, so the darker page tint dropped the
@@ -78,5 +84,14 @@ $muted-text-color: #41618a;
 
   &:hover {
     text-decoration-thickness: 2px;
+  }
+}
+
+// The hero wrapper is pinned to $x-large in the theme rather than $max-width,
+// so the banner title stayed at 1280px while the nav and content widened.
+// Align it, without touching $x-large itself -- that's a breakpoint.
+.page__hero--overlay .wrapper {
+  @include breakpoint($x-large) {
+    max-width: $max-width;
   }
 }
