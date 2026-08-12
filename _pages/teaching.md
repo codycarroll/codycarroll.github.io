@@ -95,7 +95,7 @@ __Instructor__
 
 __Mentoring__
 
-<p class="teach-subhead"><b>University of San Francisco</b> &mdash; <em>Practicum &amp; Research Mentorship</em></p>
+<p class="teach-subhead"><b>University of San Francisco</b> &middot; <em>Practicum &amp; Research Mentorship</em></p>
 
 <table class="teach-table teach-table--wide">
   <caption>Students by Year</caption>
