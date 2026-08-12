@@ -11,6 +11,12 @@ classes: wide
 author_profile: true  
 ---
 
+<style>
+/* This page is continuous prose, so it reads better in a narrower measure than
+   the site width. Scoped here: every other page keeps the full width. */
+.page__content { max-width: 60rem; }
+</style>
+
 I'm currently an assistant professor at the University of San Francisco, with joint appointments between the Department of Mathematics and Statistics and the Master's in Data Science Program.
 
 
