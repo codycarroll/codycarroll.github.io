@@ -75,6 +75,66 @@ $muted-text-color: #41618a;
   }
 }
 
+// Publications, software, and posters are enumerated so entries can be cited
+// by number. Whitepapers deliberately stays unnumbered.
+//
+// The publication list already spends its left gutter on an absolutely
+// positioned icon, so a native <ol> marker would render underneath it. A
+// counter in its own gutter sidesteps that; the icon and text both shift right
+// to make room.
+$pub-num-gutter: 34px;
+
+.pub-list--numbered {
+  ol {
+    counter-reset: pub;
+  }
+
+  li {
+    counter-increment: pub;
+    padding-left: 84px + $pub-num-gutter;
+
+    @include breakpoint($small) {
+      padding-left: 124px + $pub-num-gutter;
+    }
+  }
+
+  li::before {
+    content: counter(pub) ".";
+    position: absolute;
+    left: 0;
+    top: 0.3em;
+    width: 26px;
+    text-align: right;
+    font-weight: 600;
+    color: #6f767d;
+  }
+
+  .pub-icon {
+    left: $pub-num-gutter;
+  }
+}
+
+// Posters and software carry no icon, so a real <ol> numbers them natively and
+// screen readers announce the order. Only the spacing needs adjusting.
+.num-list ol {
+  margin-left: 1.6em;
+  padding-left: 0;
+}
+
+.num-list li {
+  margin-bottom: 1.1em;
+  padding-left: 0.3em;
+
+  > p:first-child {
+    margin-top: 0;
+  }
+}
+
+.num-list li::marker {
+  font-weight: 600;
+  color: #6f767d;
+}
+
 // Sidebar profile links read as plain text without a decoration, so underline
 // them at rest rather than only on hover.
 .author__urls a {
