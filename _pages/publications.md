@@ -18,7 +18,7 @@ Publications
 <p style="font-size: 0.9em; color: #6f767d;">&dagger; denotes a student under mentorship.<br/>
 &#42; denotes equal contribution.</p>
 
-<div class="pub-list pub-list--numbered" markdown="1">
+<div class="pub-list" markdown="1">
 
 1. <img class="pub-icon" src="/assets/images/pubs/kap.jpg" alt=""> _A Longitudinal Analysis of the Clinical Practice of Ketamine-Assisted Psychotherapy with Adolescents and Young Adults._<br/>
 P. Wolfson&#42;, <b>C. Carroll</b>&#42;. _Frontiers in Psychiatry, 17 (2026), in press._ <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1886833/abstract" target="_blank">(abstract)</a>.
@@ -70,16 +70,16 @@ Whitepapers
 
 <div class="pub-list" markdown="1">
 
-+ <img class="pub-icon" src="/assets/images/pubs/mt.jpg" alt=""> _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
+1. <img class="pub-icon" src="/assets/images/pubs/mt.jpg" alt=""> _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
 J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
-+ <img class="pub-icon" src="/assets/images/pubs/heat.jpg" alt=""> _Bias Evaluation and Correction of Heat Index Forecasts Using Climate Observations in California._<br/>
+1. <img class="pub-icon" src="/assets/images/pubs/heat.jpg" alt=""> _Bias Evaluation and Correction of Heat Index Forecasts Using Climate Observations in California._<br/>
 A. Klaus&dagger;, F. Chiang, <b>C. Carroll</b>. _Office of Environmental Health Hazard Assessment (OEHHA), (2026)._ <a href="/assets/pdf/heatindex_modeling.pdf" target="_blank">(pdf)</a>.
 
-+ <img class="pub-icon" src="/assets/images/pubs/urchins_cc-by_ed-bierman.jpg" alt=""> _An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring._<br/>
+1. <img class="pub-icon" src="/assets/images/pubs/urchins_cc-by_ed-bierman.jpg" alt=""> _An Automated Sea Urchin Counting Pipeline for Kelp Forest Restoration Monitoring._<br/>
 A. Lobo&#42;&dagger;, J. Li&#42;&dagger;, A. Taylor, B. Grime, K. Klausmeyer, <b>C. Carroll</b>. _The Nature Conservancy (2026)._ <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">(pdf)</a> <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">(video)</a>.
 
-+ <img class="pub-icon" src="/assets/images/pubs/birdsense_cc-by_andrew-murray.jpg" alt=""> _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
+1. <img class="pub-icon" src="/assets/images/pubs/birdsense_cc-by_andrew-murray.jpg" alt=""> _An Automated Workflow for Satellite-based Monitoring of Field Flooding._<br/>
 X. Wang&#42;&dagger;, W.-C. Liao&#42;&dagger;, K. Klausmeyer, N. Rindlaub, <b>C. Carroll</b>. _The Nature Conservancy (2023)._ <a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">(poster)</a> <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">(github)</a>.
 
 </div>

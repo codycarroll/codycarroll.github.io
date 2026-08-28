@@ -32,20 +32,26 @@ $muted-text-color: #41618a;
 // rather than making the <li> a flex row -- keeps the item a real list-item and
 // avoids needing :has() to spot the entries that still lack an icon.
 .pub-list {
-  ul {
+  ul,
+  ol {
     margin-left: 0;
     padding-left: 0;
+    // Each list restarts at 1, so publications and whitepapers number
+    // independently.
+    counter-reset: pub;
   }
 
   li {
     position: relative;
     list-style: none;
-    padding-left: 84px;
+    counter-increment: pub;
+    // Room for the icon, then the number, then the text.
+    padding-left: 118px;
     min-height: 72px;
     margin-bottom: 1.25em;
 
     @include breakpoint($small) {
-      padding-left: 124px;
+      padding-left: 158px;
       min-height: 108px;
     }
 
@@ -53,6 +59,25 @@ $muted-text-color: #41618a;
     // below the icon it belongs to.
     > p:first-child {
       margin-top: 0;
+    }
+  }
+
+  // The number sits between the icon and the text. A native <ol> marker can
+  // only render at the list's left edge, which is where the icon lives, so a
+  // counter is what lets it sit in the middle column.
+  li::before {
+    content: counter(pub) ".";
+    position: absolute;
+    left: 82px;
+    top: 0.3em;
+    width: 24px;
+    text-align: right;
+    font-weight: 600;
+    color: #6f767d;
+
+    @include breakpoint($small) {
+      left: 120px;
+      width: 26px;
     }
   }
 }
@@ -72,45 +97,6 @@ $muted-text-color: #41618a;
   @include breakpoint($small) {
     width: 108px;
     height: 108px;
-  }
-}
-
-// Publications, software, and posters are enumerated so entries can be cited
-// by number. Whitepapers deliberately stays unnumbered.
-//
-// The publication list already spends its left gutter on an absolutely
-// positioned icon, so a native <ol> marker would render underneath it. A
-// counter in its own gutter sidesteps that; the icon and text both shift right
-// to make room.
-$pub-num-gutter: 34px;
-
-.pub-list--numbered {
-  ol {
-    counter-reset: pub;
-  }
-
-  li {
-    counter-increment: pub;
-    padding-left: 84px + $pub-num-gutter;
-
-    @include breakpoint($small) {
-      padding-left: 124px + $pub-num-gutter;
-    }
-  }
-
-  li::before {
-    content: counter(pub) ".";
-    position: absolute;
-    left: 0;
-    top: 0.3em;
-    width: 26px;
-    text-align: right;
-    font-weight: 600;
-    color: #6f767d;
-  }
-
-  .pub-icon {
-    left: $pub-num-gutter;
   }
 }
 
