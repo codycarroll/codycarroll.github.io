@@ -11,8 +11,10 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<!-- For all browsers. The build stamp busts the CDN/browser cache: GitHub
+     Pages serves assets with max-age=600, so without it a visitor can get new
+     HTML alongside up to ten minutes of stale CSS. -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 <!--[if IE ]>
   <style>
