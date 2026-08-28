@@ -20,6 +20,9 @@ Publications
 
 <div class="pub-list" markdown="1">
 
++ <img class="pub-icon" src="/assets/images/pubs/kap.jpg" alt=""> _A Longitudinal Analysis of the Clinical Practice of Ketamine-Assisted Psychotherapy with Adolescents and Young Adults._<br/>
+P. Wolfson&#42;, <b>C. Carroll</b>&#42;. _Frontiers in Psychiatry, 17 (2026), in press._ <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1886833/abstract" target="_blank">(abstract)</a>.
+
 + <img class="pub-icon" src="/assets/images/pubs/gsp.jpg" alt=""> _Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models._<br/>
 R. Bernstein&dagger;, S. Waterman&dagger;, K. Klausmeyer, N. Murphy, M. M. Rohde, <b>C. Carroll</b>. _Environmental Challenges, 101575 (2026)._ <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">(pdf)</a> <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">(poster)</a> <a href="https://doi.org/10.1016/j.envc.2026.101575" target="_blank">(doi)</a>.
 
