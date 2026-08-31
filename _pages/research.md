@@ -83,6 +83,11 @@ author_profile: false
   margin-right: 0.4em;
 }
 .ra-pubs a { font-weight: 600; }
+/* The pointer to the full list is not a paper, so it takes the teal of the
+   "Selected work" label and the heading rule instead of the blue used for
+   every other link in the row. */
+.ra-pubs a.ra-pubs-more { color: #2c7a93; }
+.ra-pubs a.ra-pubs-more:hover { color: #1f5c70; }
 
 .research-video {
   margin: 1.4rem 0 0;
@@ -123,7 +128,7 @@ author_profile: false
         <a href="/assets/pdf/isopods.pdf" target="_blank">Embryology and Transcriptomics of a Groundwater Isopod</a> (<em>Evolution &amp; Development</em>, 2025) ·
         <a href="/assets/pdf/everest.pdf" target="_blank">Mountaineers on Mount Everest</a> (<em>PLoS One</em>, 2020) ·
         <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Automated Sea Urchin Counting for Kelp Forest Restoration</a> (<em>The Nature Conservancy</em>, 2026) ·
-        <a href="/publications/">[Other Publications]</a>
+        <a class="ra-pubs-more" href="/publications/">[Other Publications]</a>
       </p>
     </div>
   </section>
@@ -144,7 +149,7 @@ author_profile: false
         <a href="/assets/pdf/covid.pdf" target="_blank">Time Dynamics of COVID-19</a> (<em>Scientific Reports</em>, 2020) ·
         <a href="/assets/pdf/covid_delay.pdf" target="_blank">Learning Delay Dynamics for COVID-19 Growth</a> (<em>J. Math. Anal. Appl.</em>, 2022) ·
         <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a> ·
-        <a href="/publications/">[Other Publications]</a>
+        <a class="ra-pubs-more" href="/publications/">[Other Publications]</a>
       </p>
     </div>
   </section>
@@ -158,7 +163,7 @@ author_profile: false
         <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1886833/abstract" target="_blank">Ketamine-Assisted Psychotherapy in Youth</a> (<em>Frontiers in Psychiatry</em>, in press) ·
         <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">FPCA for Glaucoma Progression</a> (<em>Frontiers in Ophthalmology</em>, 2025) ·
         <a href="/assets/pdf/dvh.pdf" target="_blank">Knowledge-Based DVH Prediction</a> (<em>J. Appl. Clin. Med. Phys.</em>, 2021) ·
-        <a href="/publications/">[Other Publications]</a>
+        <a class="ra-pubs-more" href="/publications/">[Other Publications]</a>
       </p>
     </div>
     <div class="ra-figure ra-figure--lg">
