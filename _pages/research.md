@@ -122,7 +122,8 @@ author_profile: false
         <a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">LLMs for Conservation Efficiency</a> (<em>Environmental Challenges</em>, 2026) ·
         <a href="/assets/pdf/isopods.pdf" target="_blank">Embryology and Transcriptomics of a Groundwater Isopod</a> (<em>Evolution &amp; Development</em>, 2025) ·
         <a href="/assets/pdf/everest.pdf" target="_blank">Mountaineers on Mount Everest</a> (<em>PLoS One</em>, 2020) ·
-        <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Automated Sea Urchin Counting for Kelp Forest Restoration</a> (<em>The Nature Conservancy</em>, 2026)
+        <a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Automated Sea Urchin Counting for Kelp Forest Restoration</a> (<em>The Nature Conservancy</em>, 2026) ·
+        <a href="/publications/">Other Publications</a>
       </p>
     </div>
   </section>
@@ -142,7 +143,8 @@ author_profile: false
         <a href="/assets/pdf/xcr.pdf" target="_blank">Cross-component Registration</a> (<em>Biometrics</em>, 2021) ·
         <a href="/assets/pdf/covid.pdf" target="_blank">Time Dynamics of COVID-19</a> (<em>Scientific Reports</em>, 2020) ·
         <a href="/assets/pdf/covid_delay.pdf" target="_blank">Learning Delay Dynamics for COVID-19 Growth</a> (<em>J. Math. Anal. Appl.</em>, 2022) ·
-        <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a>
+        <a href="https://cran.r-project.org/web/packages/fdapace/index.html" target="_blank">fdapace R package</a> ·
+        <a href="/publications/">Other Publications</a>
       </p>
     </div>
   </section>
@@ -155,7 +157,8 @@ author_profile: false
         <a href="https://doi.org/10.1038/s41598-026-38045-1" target="_blank">ABRA Deep Learning Toolbox</a> (<em>Scientific Reports</em>, 2026) ·
         <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2026.1886833/abstract" target="_blank">Ketamine-Assisted Psychotherapy in Youth</a> (<em>Frontiers in Psychiatry</em>, in press) ·
         <a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">FPCA for Glaucoma Progression</a> (<em>Frontiers in Ophthalmology</em>, 2025) ·
-        <a href="/assets/pdf/dvh.pdf" target="_blank">Knowledge-Based DVH Prediction</a> (<em>J. Appl. Clin. Med. Phys.</em>, 2021)
+        <a href="/assets/pdf/dvh.pdf" target="_blank">Knowledge-Based DVH Prediction</a> (<em>J. Appl. Clin. Med. Phys.</em>, 2021) ·
+        <a href="/publications/">Other Publications</a>
       </p>
     </div>
     <div class="ra-figure ra-figure--lg">
