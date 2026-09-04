@@ -112,9 +112,6 @@ Posters
 1. _Network-Informed Functional Kinase Activity Profiling in a BRAF-Mutant Colorectal Cancer Patient-Derived Xenograft Model._<br/>
 B. Karimi&dagger;, H. Lin, <b>C. Carroll</b>, J.-P. Coppé. _American Society for Radiation Oncology (ASTRO) Annual Meeting (2026)._ <a href="/assets/pdf/posters/Network_Kinase_Profiling.pdf" target="_blank">(poster)</a>.
 
-1. _Teaching Taichi as Participatory Arts in Multilingual Communities for Healthy Aging and Wellness._<br/>
-E. Y. Ho, S. Pak, J. Lu, J. Leung, A. Gent&dagger;, <b>C. Carroll</b>, G. Leung, et al. _International Conference on Communication in Healthcare (ICCH), Belfast, Northern Ireland (2026)._
-
 1. _Gentle Movement, Lasting Health: Taichi for Holistic Aging._<br/>
 A. M. Li, Y. Zhong, N. Ha, ..., A. Gent&dagger;, <b>C. Carroll</b>, G. Leung, E. Y. Ho. _Creative Activity and Research Day, USF (2026)._ <a href="/assets/pdf/posters/On%20LOK%202026%20CARD%20Poster.pdf" target="_blank">(poster)</a>.
 
