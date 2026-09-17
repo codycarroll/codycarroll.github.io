@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-My full CV can be found <a href="/assets/pdf/cv.pdf" target="_blank">here</a>.
+My full CV can be found <a href="/assets/pdf/cv.pdf?v=2026-09-16" target="_blank">here</a>.
 
 
 Academic and Industry Positions
