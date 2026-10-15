@@ -57,6 +57,7 @@ __Instructor__
   <caption>University of San Francisco</caption>
   <thead><tr><th>Term</th><th>Courses</th></tr></thead>
   <tbody>
+    <tr><td class="term">Fall 2026</td><td><a href="https://github.com/codycarroll/m360-f26">Probability and Statistics</a><br/><a href="https://github.com/codycarroll/m370-f26">Probability with Applications</a></td></tr>
     <tr><td class="term">Spring 2026</td><td><a href="https://github.com/codycarroll/advml_s26">Advanced Machine Learning</a><br/>Linear Algebra for Data Science</td></tr>
     <tr><td class="term">Fall 2025</td><td><a href="https://github.com/codycarroll/regression_f25">Linear Regression Analysis</a></td></tr>
     <tr><td class="term">Spring 2025</td><td><a href="https://github.com/codycarroll/advml_s25">Advanced Machine Learning</a><br/>Linear Algebra for Data Science</td></tr>
