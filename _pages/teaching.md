@@ -28,6 +28,9 @@ __Instructor__
 .teach-table--wide { max-width: 100%; }
 .teach-table td.year { white-space: nowrap; font-weight: 600; width: 7rem; color: #24487a; }
 /* Placeholder row for a cohort that hasn't been placed yet. */
+/* Works column: links stay compact; venue in muted type. */
+.teach-table td.out { font-size: 0.9em; }
+.teach-table td.out .venue { color: #6f767d; }
 .teach-table td.tbd { color: #5b6b7a; font-style: italic; }
 .teach-subhead { margin: 0.2rem 0 0.2rem; font-size: 1.02em; }
 .teach-subhead b { color: #24487a; }
@@ -93,34 +96,34 @@ __Instructor__
 
 
 
-__Mentoring__
+__Advising__
 
-<p class="teach-subhead"><b>University of San Francisco</b> &middot; <em>Practicum &amp; Research Mentorship</em></p>
+<p class="teach-subhead"><b>University of San Francisco</b> &middot; <em>Practicum &amp; Research</em></p>
 
 <table class="teach-table teach-table--wide">
   <caption>Students by Year</caption>
-  <thead><tr><th>Year</th><th>Students</th><th>Partner Organization</th><th>Co-mentor(s)</th></tr></thead>
+  <thead><tr><th>Year</th><th>Students</th><th>Partner Organization</th><th>Co-advisor(s)</th><th>Works</th></tr></thead>
   <tbody>
-    <tr><td class="year">2026&ndash;2027</td><td class="tbd" colspan="3">Placements to be announced.</td></tr>
-    <tr><td class="year" rowspan="6">2025&ndash;2026</td><td>Ernesto Diaz, Amelia Klaus</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin, Felicia Chiang</td></tr>
-    <tr><td>Borna Karimi, Neel Deshmukh, Andrew Lim, Lokesh Muvva</td><td><a href="https://radonc.ucsf.edu/" target="_blank">UCSF Radiation Oncology</a></td><td>Hui Lin, Jean-Philippe Coppé</td></tr>
-    <tr><td>Vu Chu-Le, Tianyi Luo</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
-    <tr><td>John Hutchens</td><td><a href="https://capralab.org/" target="_blank">Capra Lab, UCSF Epidemiology &amp; Biostatistics</a></td><td>Tony Capra</td></tr>
-    <tr><td>Jianing (Ari) Li, Aatish Lobo</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Annie Taylor, Kirk Klausmeyer</td></tr>
-    <tr><td>Shiman Zhang, Sai Mulagan</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-    <tr><td class="year" rowspan="6">2024&ndash;2025</td><td>Amit Chaubey, Emma Salazar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-    <tr><td>KD Bartholomew, Aman Singh</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
-    <tr><td>Leah Ashebir, Peeyush Patel</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
-    <tr><td>Ada Zhang, Hamza Louzan, Victor Wei, Nihal Karim</td><td><a href="https://www.gatesfoundation.org/" target="_blank">Gates Foundation</a></td><td>Jessica Lundin</td></tr>
-    <tr><td>Helen Lin, Kavin Indirajith</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin</td></tr>
-    <tr><td>Andrea Quiroz, Jose Fuentes</td><td><a href="https://radonc.ucsf.edu/" target="_blank">UCSF Clinical Informatics</a></td><td>Hui Lin</td></tr>
-    <tr><td class="year" rowspan="3">2023&ndash;2024</td><td>Seneth Waterman, Ryan Bernstein</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
-    <tr><td>Rithvik Donnipadu, Maxim Sivolella</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-    <tr><td>Abhijeeth Erra, Jeffrey Chen</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td></tr>
-    <tr><td class="year" rowspan="4">2022&ndash;2023</td><td>Xin Ai, Sharon Dodda</td><td><a href="https://wildlife.ca.gov/" target="_blank">CA Dept. of Fisheries and Wildlife</a></td><td>Alex Heeren, Brett Furnas</td></tr>
-    <tr><td>Xinyi Jessica Wang, Wan-Chun Elena Liao</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td></tr>
-    <tr><td>Devendra Govil, Vichitra Kumar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td></tr>
-    <tr><td>Mohana Medisetty, Yu-Hsin Wang</td><td><a href="https://www.salk.edu/" target="_blank">Salk Institute for Biological Studies</a></td><td>Uri Manor</td></tr>
+    <tr><td class="year">2026&ndash;2027</td><td class="tbd" colspan="4">Placements to be announced.</td></tr>
+    <tr><td class="year" rowspan="6">2025&ndash;2026</td><td>Ernesto Diaz, Amelia Klaus</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin, Felicia Chiang</td><td class="out"><a href="/assets/pdf/heatindex_modeling.pdf" target="_blank">Report</a> <span class="venue">(OEHHA, 2026)</span></td></tr>
+    <tr><td>Borna Karimi, Neel Deshmukh, Andrew Lim, Lokesh Muvva</td><td><a href="https://radonc.ucsf.edu/" target="_blank">UCSF Radiation Oncology</a></td><td>Hui Lin, Jean-Philippe Coppé</td><td class="out"><a href="/assets/pdf/posters/Network_Kinase_Profiling.pdf" target="_blank">Poster</a> <span class="venue">(ASTRO, 2026)</span> &middot; <a href="/assets/pdf/Protein_LLM_kinase.pdf" target="_blank">Poster</a> <span class="venue">(USF CARD, 2026)</span></td></tr>
+    <tr><td>Vu Chu-Le, Tianyi Luo</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td><td class="out"></td></tr>
+    <tr><td>John Hutchens</td><td><a href="https://capralab.org/" target="_blank">Capra Lab, UCSF Epidemiology &amp; Biostatistics</a></td><td>Tony Capra</td><td class="out"></td></tr>
+    <tr><td>Jianing (Ari) Li, Aatish Lobo</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Annie Taylor, Kirk Klausmeyer</td><td class="out"><a href="/assets/pdf/tnc_urchins.pdf" target="_blank">Report</a> <span class="venue">(TNC, 2026)</span> &middot; <a href="/assets/pdf/posters/urchin_poster.pdf" target="_blank">Poster</a> &middot; <a href="https://youtu.be/pmHnEEVzpmI" target="_blank">Video</a></td></tr>
+    <tr><td>Shiman Zhang, Sai Mulagan</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td><td class="out"><a href="/assets/pdf/posters/Neural_CDE_Glaucoma_Poster.pdf" target="_blank">Poster</a> <span class="venue">(USF CARD, 2026)</span></td></tr>
+    <tr><td class="year" rowspan="6">2024&ndash;2025</td><td>Amit Chaubey, Emma Salazar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td><td class="out">Poster <span class="venue">(USF CARD, 2025)</span></td></tr>
+    <tr><td>KD Bartholomew, Aman Singh</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td><td class="out"><a href="/assets/pdf/posters/Flowzero_USF_CARD_POSTER.pdf" target="_blank">Poster</a> <span class="venue">(USF CARD, 2025)</span></td></tr>
+    <tr><td>Leah Ashebir, Peeyush Patel</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td><td class="out"></td></tr>
+    <tr><td>Ada Zhang, Hamza Louzan, Victor Wei, Nihal Karim</td><td><a href="https://www.gatesfoundation.org/" target="_blank">Gates Foundation</a></td><td>Jessica Lundin</td><td class="out"><a href="/assets/pdf/tokentax.pdf" target="_blank">Paper</a> <span class="venue">(AfricaNLP @ EACL, 2026)</span> &middot; <a href="/assets/pdf/posters/TokenTax_AfricaNLP_EACL_poster_.pdf" target="_blank">Poster</a> &middot; <a href="/assets/pdf/MT_metadata.pdf" target="_blank">Whitepaper</a></td></tr>
+    <tr><td>Helen Lin, Kavin Indirajith</td><td><a href="https://oehha.ca.gov/" target="_blank">California Office of Environmental Health Hazard Assessment</a></td><td>Scott Coffin</td><td class="out"></td></tr>
+    <tr><td>Andrea Quiroz, Jose Fuentes</td><td><a href="https://radonc.ucsf.edu/" target="_blank">UCSF Clinical Informatics</a></td><td>Hui Lin</td><td class="out"></td></tr>
+    <tr><td class="year" rowspan="3">2023&ndash;2024</td><td>Seneth Waterman, Ryan Bernstein</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td><td class="out"><a href="/assets/pdf/llms_for_gsps.pdf" target="_blank">Paper</a> <span class="venue">(<em>Environmental Challenges</em>, 2026)</span> &middot; <a href="/assets/pdf/posters/chatgde_poster.pdf" target="_blank">Poster</a></td></tr>
+    <tr><td>Rithvik Donnipadu, Maxim Sivolella</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td><td class="out"><a href="/assets/pdf/fpca_glaucoma.pdf" target="_blank">Paper</a> <span class="venue">(<em>Frontiers in Ophthalmology</em>, 2025)</span> &middot; <a href="/assets/pdf/posters/fpca_glaucoma_AMIA_Poster.pdf" target="_blank">Poster</a> <span class="venue">(AMIA, 2024)</span></td></tr>
+    <tr><td>Abhijeeth Erra, Jeffrey Chen</td><td><a href="https://manorlab.ucsd.edu/" target="_blank">Manor Lab, UC San Diego</a></td><td>Uri Manor</td><td class="out"><a href="/assets/pdf/abra.pdf" target="_blank">Paper</a> <span class="venue">(<em>Scientific Reports</em>, 2026)</span> &middot; <a href="/assets/pdf/posters/ABRA_poster.pdf" target="_blank">Poster</a> &middot; <a href="https://zenodo.org/records/17584961" target="_blank">Software</a></td></tr>
+    <tr><td class="year" rowspan="4">2022&ndash;2023</td><td>Xin Ai, Sharon Dodda</td><td><a href="https://wildlife.ca.gov/" target="_blank">CA Dept. of Fisheries and Wildlife</a></td><td>Alex Heeren, Brett Furnas</td><td class="out"></td></tr>
+    <tr><td>Xinyi Jessica Wang, Wan-Chun Elena Liao</td><td><a href="https://www.scienceforconservation.org/" target="_blank">The Nature Conservancy</a></td><td>Kirk Klausmeyer</td><td class="out"><a href="/assets/pdf/tnc_birdsense.pdf" target="_blank">Report</a> <span class="venue">(TNC, 2023)</span> &middot; <a href="/assets/pdf/posters/birdsense_poster.pdf" target="_blank">Poster</a> &middot; <a href="https://github.com/XinyiWang-Jessica/TNC-BirdSense-Workflows" target="_blank">Code</a></td></tr>
+    <tr><td>Devendra Govil, Vichitra Kumar</td><td><a href="https://med.stanford.edu/profiles/sophiaywang" target="_blank">Stanford Medicine</a></td><td>Sophia Ying Wang</td><td class="out"></td></tr>
+    <tr><td>Mohana Medisetty, Yu-Hsin Wang</td><td><a href="https://www.salk.edu/" target="_blank">Salk Institute for Biological Studies</a></td><td>Uri Manor</td><td class="out"></td></tr>
   </tbody>
 </table>
 
