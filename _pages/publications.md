@@ -70,6 +70,9 @@ Whitepapers
 
 <div class="pub-list" markdown="1">
 
+1. <img class="pub-icon" src="/assets/images/pubs/warping.jpg" alt=""> _Asymptotic Consistency of a Fréchet Mean Estimator for the Latent Deformation Model._<br/>
+<b>C. Carroll</b>. _Technical note (2026)._ <a href="/assets/pdf/ldm_frechet_consistency.pdf" target="_blank">(pdf)</a>.
+
 1. <img class="pub-icon" src="/assets/images/pubs/mt.jpg" alt=""> _No Text Needed: Forecasting MT Quality and Inequity from Fertility and Metadata._<br/>
 J. M. Lundin, A. Zhang&dagger;, D. Adelani, <b>C. Carroll</b>. <a href="/assets/pdf/MT_metadata.pdf" target="_blank">(pdf)</a>.
 
